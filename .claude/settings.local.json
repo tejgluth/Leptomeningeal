@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/speakeasy/Projects/websites/Leptomeningeal -type f -not -path */.*)",
+      "WebFetch(domain:clinicaltrials.gov)",
+      "WebFetch(domain:classic.clinicaltrials.gov)",
+      "WebFetch(domain:www.clinicaltrials.gov)",
+      "WebFetch(domain:beta.clinicaltrials.gov)",
+      "Bash(npm create:*)",
+      "Bash(printf 'y\\\\n')",
+      "Bash(mkdir -p /tmp/vite-init)",
+      "Read(//tmp/**)",
+      "Bash(cp -r leptomeningeal/. /Users/speakeasy/Projects/websites/Leptomeningeal/)"
+    ],
+    "defaultMode": "bypassPermissions"
+  }
+}
