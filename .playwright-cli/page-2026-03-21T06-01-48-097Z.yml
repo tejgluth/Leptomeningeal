@@ -1,0 +1,2064 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]: LM-Trials
+    - link "ClinicalTrials.gov ↗" [ref=e6] [cursor=pointer]:
+      - /url: https://clinicaltrials.gov
+  - generic [ref=e7]:
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: Clinical Trial Finder · Leptomeningeal Metastasis
+      - heading "Find your trial. Skip the complexity." [level=1] [ref=e13]:
+        - generic [ref=e14]: Find your trial.
+        - generic [ref=e15]: Skip the complexity.
+      - paragraph [ref=e16]: A focused search tool for leptomeningeal cancer patients. We filter ClinicalTrials.gov so you only see trials that can include you — eligibility pre-checked, no medical jargon required.
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - generic [ref=e19]: 179+
+          - generic [ref=e20]: Active trials indexed
+        - generic [ref=e21]:
+          - generic [ref=e22]: 3-step
+          - generic [ref=e23]: Eligibility filter
+        - generic [ref=e24]:
+          - generic [ref=e25]: Live
+          - generic [ref=e26]: Real-time data
+      - button "Search Clinical Trials →" [ref=e27] [cursor=pointer]:
+        - text: Search Clinical Trials
+        - generic [ref=e28]: →
+    - paragraph [ref=e29]: For informational purposes only. Always consult your oncologist or medical team before enrolling in any clinical trial. This tool does not provide medical advice.
+  - generic [ref=e34]:
+    - generic [ref=e101]:
+      - paragraph [ref=e102]: Filter Trials
+      - button "Collapse filters" [ref=e103] [cursor=pointer]:
+        - text: Hide filters
+        - generic [ref=e104]: ▲
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]: Your Age
+          - spinbutton "Your Age" [ref=e41]
+        - generic [ref=e42]:
+          - generic [ref=e43]: Location
+          - combobox "Location" [ref=e44] [cursor=pointer]:
+            - option "Anywhere" [selected]
+            - option "North America"
+            - option "South America"
+            - option "Europe"
+            - option "Asia"
+            - option "Middle East"
+            - option "Oceania"
+            - option "Africa"
+            - option "United States"
+            - option "Canada"
+            - option "United Kingdom"
+            - option "Germany"
+            - option "France"
+            - option "Italy"
+            - option "Spain"
+            - option "Netherlands"
+            - option "Belgium"
+            - option "Switzerland"
+            - option "Austria"
+            - option "Sweden"
+            - option "Denmark"
+            - option "Norway"
+            - option "Finland"
+            - option "Australia"
+            - option "Japan"
+            - option "China"
+            - option "South Korea"
+            - option "Israel"
+            - option "Brazil"
+            - option "Mexico"
+            - option "Argentina"
+            - option "India"
+            - option "Singapore"
+            - option "Hong Kong"
+            - option "New Zealand"
+            - option "Poland"
+            - option "Czech Republic"
+            - option "Portugal"
+            - option "Greece"
+            - option "Turkey"
+            - option "Russia"
+            - option "Ukraine"
+            - option "South Africa"
+        - generic [ref=e45]:
+          - paragraph [ref=e46]: Study Type
+          - group "Study type" [ref=e47]:
+            - button "Interventional" [ref=e48] [cursor=pointer]
+            - button "Observational" [ref=e49] [cursor=pointer]
+          - paragraph [ref=e50]: All types included
+        - generic [ref=e51]:
+          - paragraph [ref=e52]: Phase — select any
+          - group "Trial phase" [ref=e53]:
+            - button "Phase 1" [ref=e54] [cursor=pointer]
+            - button "Phase 2" [ref=e55] [cursor=pointer]
+            - button "Phase 3" [ref=e56] [cursor=pointer]
+          - paragraph [ref=e57]: All phases included
+      - generic [ref=e58]:
+        - generic [ref=e59]: Recruitment Status
+        - generic [ref=e60] [cursor=pointer]:
+          - generic [ref=e61]:
+            - img [ref=e62]
+            - checkbox "Recruiting" [checked] [ref=e64]
+          - generic [ref=e65]: Recruiting
+        - generic [ref=e66] [cursor=pointer]:
+          - generic [ref=e67]:
+            - img [ref=e68]
+            - checkbox "Not Yet Recruiting" [checked] [ref=e70]
+          - generic [ref=e71]: Not Yet Recruiting
+        - generic [ref=e72] [cursor=pointer]:
+          - generic [ref=e73]:
+            - img [ref=e74]
+            - checkbox "Active, Not Recruiting" [checked] [ref=e76]
+          - generic [ref=e77]: Active, Not Recruiting
+      - generic [ref=e78]:
+        - paragraph [ref=e79]: Tumor Type
+        - group "Tumor type filter" [ref=e80]:
+          - button "Any tumor type" [active] [ref=e81] [cursor=pointer]
+          - button "Lung" [ref=e82] [cursor=pointer]
+          - button "Breast" [ref=e83] [cursor=pointer]
+          - button "Melanoma" [ref=e84] [cursor=pointer]
+          - button "GBM" [ref=e85] [cursor=pointer]
+          - button "Other / Solid tumor" [ref=e86] [cursor=pointer]
+      - button "Search Trials →" [ref=e87] [cursor=pointer]:
+        - text: Search Trials
+        - generic [ref=e8837]: →
+  - generic [ref=e8838]:
+    - heading "46 trials found" [level=2] [ref=e8840]
+    - paragraph [ref=e8841]: Searched by condition and across all trial text. Exclusion criteria checked against leptomeningeal terms, age eligibility applied. All shown trials passed eligibility filtering.
+    - generic [ref=e8842]:
+      - generic [ref=e8845]:
+        - generic [ref=e8846]:
+          - generic [ref=e8847]: Recruiting
+          - generic [ref=e8849]: Phase 2
+          - generic [ref=e8850]: Interventional
+          - generic [ref=e8851]: NCT06810804
+        - generic [ref=e8852]:
+          - heading "A Phase IIa Study to Evaluate NBQ72S" [level=2] [ref=e8853]
+          - paragraph [ref=e8854]: A Phase IIa Study to Evaluate the Efficacy and Safety of NBQ72S in Breast Cancer Patients With Leptomeningeal Metastases, With or Without Brain Parenchymal Metastases
+        - generic [ref=e8856]: Breast Cancer
+        - paragraph [ref=e8859]: A phase IIa, single-arm, open-label study was conducted to evaluate the efficacy and safety of NBQ72S, in patients with leptomeningeal metastases from breast cancer. All patients will receive the study drug every 28 days until withdrawal from treatment.
+        - generic [ref=e8861]:
+          - generic [ref=e8862]:
+            - paragraph [ref=e8863]: Organization
+            - paragraph [ref=e8864]: Nantong Bencao Quadriga Medical Technology Co. Ltd.
+          - generic [ref=e8865]:
+            - paragraph [ref=e8866]: Responsible Party
+            - paragraph [ref=e8867]: Nantong Bencao Quadriga Medical Technology Co. Ltd.
+          - generic [ref=e8868]:
+            - paragraph [ref=e8869]: Start Date
+            - paragraph [ref=e8870]: Apr 2025
+          - generic [ref=e8871]:
+            - paragraph [ref=e8872]: Enrollment
+            - paragraph [ref=e8873]: 10(est.)
+          - generic [ref=e8874]:
+            - paragraph [ref=e8875]: Expanded Access
+            - paragraph [ref=e8876]: "No"
+          - generic [ref=e8877]:
+            - paragraph [ref=e8878]: First Submitted
+            - paragraph [ref=e8879]: Jan 2025
+        - generic [ref=e8881]:
+          - generic [ref=e8882]:
+            - generic [ref=e8883]: "Contact:"
+            - generic [ref=e8884]: raylene.liu@3ebio.com
+            - button "Copy email" [ref=e8885] [cursor=pointer]:
+              - img [ref=e8886]
+          - link "View Trial" [ref=e8889] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06810804
+            - text: View Trial
+            - img [ref=e8890]
+      - generic [ref=e8894]:
+        - generic [ref=e8895]:
+          - generic [ref=e8896]: Active, Not Recruiting
+          - generic [ref=e8898]: Phase 1
+          - generic [ref=e8899]: Interventional
+          - generic [ref=e8900]: NCT03696030
+        - generic [ref=e8901]:
+          - heading "HER2-CAR T Cells in Treating Patients With Recurrent Brain or Leptomeningeal Metastases" [level=2] [ref=e8902]
+          - paragraph [ref=e8903]: A Phase 1 Cellular Immunotherapy Study of Intraventricularly Administered Autologous HER2-Targeted Chimeric Antigen Receptor (HER2-CAR) T Cells in Patients With Brain and/or Leptomeningeal Metastases From HER2 Positive Cancers
+        - generic [ref=e8904]:
+          - generic [ref=e8905]: Malignant Neoplasm
+          - generic [ref=e8906]: Metastatic Malignant Neoplasm in the Brain
+          - generic [ref=e8907]: Metastatic Malignant Neoplasm in the Leptomeninges
+          - generic [ref=e8908]: Breast Cancer
+          - generic [ref=e8909]: HER2-positive Breast Cancer
+        - generic [ref=e8911]:
+          - paragraph [ref=e8912]: This phase I trial studies the side effects and best dose of HER2-CAR T cells in treating patients with cancer that has spread to the brain or leptomeninges and has come back (recurrent). HER2-CAR T cells delivered into the ventricles of the brain may recognize and kill tumor cel…
+          - button "↓ Read more" [ref=e8913] [cursor=pointer]
+        - generic [ref=e8915]:
+          - generic [ref=e8916]:
+            - paragraph [ref=e8917]: Organization
+            - paragraph [ref=e8918]: City of Hope Medical Center
+          - generic [ref=e8919]:
+            - paragraph [ref=e8920]: Responsible Party
+            - paragraph [ref=e8921]: City of Hope Medical Center
+          - generic [ref=e8922]:
+            - paragraph [ref=e8923]: Start Date
+            - paragraph [ref=e8924]: Aug 2018
+          - generic [ref=e8925]:
+            - paragraph [ref=e8926]: Enrollment
+            - paragraph [ref=e8927]: 24(actual)
+          - generic [ref=e8928]:
+            - paragraph [ref=e8929]: Expanded Access
+            - paragraph [ref=e8930]: "No"
+          - generic [ref=e8931]:
+            - paragraph [ref=e8932]: First Submitted
+            - paragraph [ref=e8933]: Jun 2018
+        - generic [ref=e8935]:
+          - generic [ref=e8936]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e8937] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT03696030
+            - text: View Trial
+            - img [ref=e8938]
+      - generic [ref=e8942]:
+        - generic [ref=e8943]:
+          - generic [ref=e8944]: Recruiting
+          - generic [ref=e8946]: Phase 1 / Phase 2
+          - generic [ref=e8947]: Interventional
+          - generic [ref=e8948]: NCT04588545
+        - generic [ref=e8949]:
+          - heading "Radiation Therapy Followed by Intrathecal Trastuzumab/Pertuzumab in HER2+ Breast Leptomeningeal Disease" [level=2] [ref=e8950]
+          - paragraph [ref=e8951]: Phase I/II Study of Radiation Therapy Followed by Intrathecal Trastuzumab/Pertuzumab in the Management of HER2+ Breast Leptomeningeal Disease
+        - generic [ref=e8952]:
+          - generic [ref=e8953]: HER2-positive Breast Cancer
+          - generic [ref=e8954]: Leptomeningeal Metastasis
+          - generic [ref=e8955]: Leptomeningeal Disease
+        - paragraph [ref=e8958]: The purpose of this study is to find out if radiation therapy followed by intrathecal trastuzumab and pertuzumab is safe and will result in improved survival in HER2 positive breast cancer which has metastasized to the leptomeninges.
+        - generic [ref=e8960]:
+          - generic [ref=e8961]:
+            - paragraph [ref=e8962]: Organization
+            - paragraph [ref=e8963]: H. Lee Moffitt Cancer Center and Research Institute
+          - generic [ref=e8964]:
+            - paragraph [ref=e8965]: Responsible Party
+            - paragraph [ref=e8966]: H. Lee Moffitt Cancer Center and Research Institute
+          - generic [ref=e8967]:
+            - paragraph [ref=e8968]: Start Date
+            - paragraph [ref=e8969]: Dec 2020
+          - generic [ref=e8970]:
+            - paragraph [ref=e8971]: Enrollment
+            - paragraph [ref=e8972]: 39(est.)
+          - generic [ref=e8973]:
+            - paragraph [ref=e8974]: Expanded Access
+            - paragraph [ref=e8975]: "No"
+          - generic [ref=e8976]:
+            - paragraph [ref=e8977]: First Submitted
+            - paragraph [ref=e8978]: Oct 2020
+        - generic [ref=e8980]:
+          - generic [ref=e8981]:
+            - generic [ref=e8982]: "Contact:"
+            - generic [ref=e8983]: fiona.roberts@moffitt.org
+            - button "Copy email" [ref=e8984] [cursor=pointer]:
+              - img [ref=e8985]
+          - link "View Trial" [ref=e8988] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT04588545
+            - text: View Trial
+            - img [ref=e8989]
+      - generic [ref=e8993]:
+        - generic [ref=e8994]:
+          - generic [ref=e8995]: Active, Not Recruiting
+          - generic [ref=e8997]: Phase 1 / Phase 2
+          - generic [ref=e8998]: Interventional
+          - generic [ref=e8999]: NCT06462222
+        - generic [ref=e9000]:
+          - heading "Immune Checkpoint Inhibitor Combined With Pemetrexed Intrathecal Injection for Leptomeningeal Metastasis From Solid Tumors" [level=2] [ref=e9001]
+          - paragraph [ref=e9002]: "Immune Checkpoint Inhibitor Combined With Pemetrexed Intrathecal Injection for Leptomeningeal Metastasis From Solid Tumors: a Phase I/II Study"
+        - generic [ref=e9004]: Leptomeningeal Metastasis
+        - paragraph [ref=e9007]: This is an open-label, single-arm, phase I/II trial of immune checkpoint inhibitor combined with pemetrexed intrathecal injection for leptomeningeal metastasis from solid tumors.
+        - generic [ref=e9009]:
+          - generic [ref=e9010]:
+            - paragraph [ref=e9011]: Organization
+            - paragraph [ref=e9012]: Guangzhou Medical University
+          - generic [ref=e9013]:
+            - paragraph [ref=e9014]: Responsible Party
+            - paragraph [ref=e9015]: Zhenyu Pan · Professor · Guangzhou Medical University
+          - generic [ref=e9016]:
+            - paragraph [ref=e9017]: Start Date
+            - paragraph [ref=e9018]: Jun 2024
+          - generic [ref=e9019]:
+            - paragraph [ref=e9020]: Enrollment
+            - paragraph [ref=e9021]: 45(actual)
+          - generic [ref=e9022]:
+            - paragraph [ref=e9023]: Expanded Access
+            - paragraph [ref=e9024]: "No"
+          - generic [ref=e9025]:
+            - paragraph [ref=e9026]: First Submitted
+            - paragraph [ref=e9027]: Jun 2024
+        - generic [ref=e9029]:
+          - generic [ref=e9030]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e9031] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06462222
+            - text: View Trial
+            - img [ref=e9032]
+      - generic [ref=e9036]:
+        - generic [ref=e9037]:
+          - generic [ref=e9038]: Recruiting
+          - generic [ref=e9040]: Interventional
+          - generic [ref=e9041]: NCT07476781
+        - generic [ref=e9042]:
+          - heading "CSF and Blood Plasma Liquid Biopsy in Patients With Metastatic Solid Tumours and CNS Metastases or no CNS Metastases" [level=2] [ref=e9043]
+          - paragraph [ref=e9044]: "Exploring the Feasibility of Cerebrospinal Fluid (CSF) Liquid Biopsy in Patients With Metastatic Solid Tumours and Leptomeningeal Disease (Cohort A), Parenchymal Brain Metastases (Cohort B), or No Evidence of Central Nervous System (CNS) Metastases (Cohort C): A Pilot Study"
+        - generic [ref=e9045]:
+          - generic [ref=e9046]: Solid Tumor Malignancies
+          - generic [ref=e9047]: Brain Metastasases
+          - generic [ref=e9048]: Leptomeningeal Disease (LMD)
+        - generic [ref=e9050]:
+          - paragraph [ref=e9051]: This is a prospective, single-centre feasibility study of CSF ctDNA conducted at the Sunnybrook Odette Cancer Centre (SOCC), Toronto, Canada, including multiple solid tumor, stratified into cohorts according to CNS disease involvement, including leptomeningeal disease (Cohort A),…
+          - button "↓ Read more" [ref=e9052] [cursor=pointer]
+        - generic [ref=e9054]:
+          - generic [ref=e9055]:
+            - paragraph [ref=e9056]: Organization
+            - paragraph [ref=e9057]: Sunnybrook Health Sciences Centre
+          - generic [ref=e9058]:
+            - paragraph [ref=e9059]: Responsible Party
+            - paragraph [ref=e9060]: Sunnybrook Health Sciences Centre
+          - generic [ref=e9061]:
+            - paragraph [ref=e9062]: Start Date
+            - paragraph [ref=e9063]: Dec 2025
+          - generic [ref=e9064]:
+            - paragraph [ref=e9065]: Enrollment
+            - paragraph [ref=e9066]: 60(est.)
+          - generic [ref=e9067]:
+            - paragraph [ref=e9068]: Expanded Access
+            - paragraph [ref=e9069]: "No"
+          - generic [ref=e9070]:
+            - paragraph [ref=e9071]: First Submitted
+            - paragraph [ref=e9072]: Mar 2026
+        - generic [ref=e9074]:
+          - generic [ref=e9075]:
+            - generic [ref=e9076]: "Contact:"
+            - generic [ref=e9077]: katarzyna.jerzak@sunnybrook.ca
+            - button "Copy email" [ref=e9078] [cursor=pointer]:
+              - img [ref=e9079]
+          - link "View Trial" [ref=e9082] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07476781
+            - text: View Trial
+            - img [ref=e9083]
+      - generic [ref=e9087]:
+        - generic [ref=e9088]:
+          - generic [ref=e9089]: Recruiting
+          - generic [ref=e9091]: Phase 2
+          - generic [ref=e9092]: Interventional
+          - generic [ref=e9093]: NCT06518057
+        - generic [ref=e9094]:
+          - heading "Hippocampal Avoidance in Craniospinal Irradiation for the Treatment of Leptomeningeal Metastases From Breast Cancer or Non-small Cell Lung Cancer" [level=2] [ref=e9095]
+          - paragraph [ref=e9096]: A Multi-Center Phase 2 Study of Hippocampal Avoidance in Craniospinal Irradiation for Leptomeningeal Metastases From Solid Tumors
+        - generic [ref=e9097]:
+          - generic [ref=e9098]: Anatomic Stage IV Breast Cancer AJCC v8
+          - generic [ref=e9099]: Metastatic Breast Carcinoma
+          - generic [ref=e9100]: Metastatic Lung Non-Small Cell Carcinoma
+          - generic [ref=e9101]: Metastatic Malignant Neoplasm in the Leptomeninges
+          - generic [ref=e9102]: Stage IV Lung Cancer AJCC v8
+        - generic [ref=e9104]:
+          - paragraph [ref=e9105]: This phase II clinical trial studies how well craniospinal irradiation (CSI) with hippocampal avoidance, using proton therapy or volumetric modulated arc therapy (VMAT), works in treating patients with breast cancer or non-small cell lung cancer (NSCLC) that has spread from the o…
+          - button "↓ Read more" [ref=e9106] [cursor=pointer]
+        - generic [ref=e9108]:
+          - generic [ref=e9109]:
+            - paragraph [ref=e9110]: Organization
+            - paragraph [ref=e9111]: University of Washington
+          - generic [ref=e9112]:
+            - paragraph [ref=e9113]: Responsible Party
+            - paragraph [ref=e9114]: University of Washington
+          - generic [ref=e9115]:
+            - paragraph [ref=e9116]: Start Date
+            - paragraph [ref=e9117]: Mar 2025
+          - generic [ref=e9118]:
+            - paragraph [ref=e9119]: Enrollment
+            - paragraph [ref=e9120]: 22(est.)
+          - generic [ref=e9121]:
+            - paragraph [ref=e9122]: Expanded Access
+            - paragraph [ref=e9123]: "No"
+          - generic [ref=e9124]:
+            - paragraph [ref=e9125]: First Submitted
+            - paragraph [ref=e9126]: Jul 2024
+        - generic [ref=e9128]:
+          - generic [ref=e9129]:
+            - generic [ref=e9130]: "Contact:"
+            - generic [ref=e9131]: lhalasz@uw.edu
+            - button "Copy email" [ref=e9132] [cursor=pointer]:
+              - img [ref=e9133]
+          - link "View Trial" [ref=e9136] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06518057
+            - text: View Trial
+            - img [ref=e9137]
+      - generic [ref=e9141]:
+        - generic [ref=e9142]:
+          - generic [ref=e9143]: Recruiting
+          - generic [ref=e9145]: Interventional
+          - generic [ref=e9146]: NCT05746325
+        - generic [ref=e9147]:
+          - heading "Tumor Treating Fields for the Treatment of Leptomeningeal Metastases of the Spine in Patients With Breast or Lung Cancer" [level=2] [ref=e9148]
+          - paragraph [ref=e9149]: Pilot Feasibility Study of Tumor Treating Fields in Treatment of Leptomeningeal Metastases Involving the Spine
+        - generic [ref=e9150]:
+          - generic [ref=e9151]: Anatomic Stage IV Breast Cancer AJCC v8
+          - generic [ref=e9152]: Metastatic Breast Carcinoma
+          - generic [ref=e9153]: Metastatic Malignant Neoplasm in the Leptomeninges
+          - generic [ref=e9154]: Metastatic Lung Carcinoma
+          - generic [ref=e9155]: Stage IV Lung Cancer AJCC v8
+        - generic [ref=e9157]:
+          - paragraph [ref=e9158]: This clinical trial evaluates the safety and feasibility of tumor treating fields (TTF) in the treatment of spinal leptomeningeal disease in patients with breast or lung cancer that has spread from where it first started (primary site) to other places in the body (metastatic). Pa…
+          - button "↓ Read more" [ref=e9159] [cursor=pointer]
+        - generic [ref=e9161]:
+          - generic [ref=e9162]:
+            - paragraph [ref=e9163]: Organization
+            - paragraph [ref=e9164]: Mayo Clinic
+          - generic [ref=e9165]:
+            - paragraph [ref=e9166]: Responsible Party
+            - paragraph [ref=e9167]: Mayo Clinic
+          - generic [ref=e9168]:
+            - paragraph [ref=e9169]: Start Date
+            - paragraph [ref=e9170]: Apr 2023
+          - generic [ref=e9171]:
+            - paragraph [ref=e9172]: Enrollment
+            - paragraph [ref=e9173]: 5(est.)
+          - generic [ref=e9174]:
+            - paragraph [ref=e9175]: Expanded Access
+            - paragraph [ref=e9176]: "No"
+          - generic [ref=e9177]:
+            - paragraph [ref=e9178]: First Submitted
+            - paragraph [ref=e9179]: Feb 2023
+        - generic [ref=e9181]:
+          - generic [ref=e9182]:
+            - generic [ref=e9183]: "Contact:"
+            - generic [ref=e9184]: mayocliniccancerstudies@mayo.edu
+            - button "Copy email" [ref=e9185] [cursor=pointer]:
+              - img [ref=e9186]
+          - link "View Trial" [ref=e9189] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05746325
+            - text: View Trial
+            - img [ref=e9190]
+      - generic [ref=e9194]:
+        - generic [ref=e9195]:
+          - generic [ref=e9196]: Active, Not Recruiting
+          - generic [ref=e9198]: Phase 1
+          - generic [ref=e9199]: Interventional
+          - generic [ref=e9200]: NCT05034497
+        - generic [ref=e9201]:
+          - heading "Intraventricular Administration of Rhenium-186 NanoLiposome for Leptomeningeal Metastases" [level=2] [ref=e9202]
+          - paragraph [ref=e9203]: A Multicenter Phase 1 Clinical Study to Determine the Maximum Tolerated Dose/Maximum Feasible Dose, Safety,& Efficacy of Single Dose Rhenium-186 NanoLiposome (186RNL) Administered Via Intraventricular Catheter for Leptomeningeal Metastases
+        - generic [ref=e9205]: Leptomeningeal Metastasis
+        - paragraph [ref=e9208]: This is an open-label Phase I clinical study that will administer a single dose of 186RNL via intraventricular catheter for treatment of Leptomeningeal Metastases (LM).
+        - generic [ref=e9210]:
+          - generic [ref=e9211]:
+            - paragraph [ref=e9212]: Organization
+            - paragraph [ref=e9213]: Plus Therapeutics
+          - generic [ref=e9214]:
+            - paragraph [ref=e9215]: Responsible Party
+            - paragraph [ref=e9216]: Plus Therapeutics
+          - generic [ref=e9217]:
+            - paragraph [ref=e9218]: Start Date
+            - paragraph [ref=e9219]: Dec 2021
+          - generic [ref=e9220]:
+            - paragraph [ref=e9221]: Enrollment
+            - paragraph [ref=e9222]: 18(est.)
+          - generic [ref=e9223]:
+            - paragraph [ref=e9224]: Expanded Access
+            - paragraph [ref=e9225]: "No"
+          - generic [ref=e9226]:
+            - paragraph [ref=e9227]: First Submitted
+            - paragraph [ref=e9228]: Aug 2021
+        - generic [ref=e9230]:
+          - generic [ref=e9231]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e9232] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05034497
+            - text: View Trial
+            - img [ref=e9233]
+      - generic [ref=e9237]:
+        - generic [ref=e9238]:
+          - generic [ref=e9239]: Recruiting
+          - generic [ref=e9241]: Phase 1
+          - generic [ref=e9242]: Interventional
+          - generic [ref=e9243]: NCT07361562
+        - generic [ref=e9244]:
+          - heading "A Study of a Selective ERBB2 Inhibitor (CGT4255), in Patients With Advanced Solid Tumors" [level=2] [ref=e9245]
+          - paragraph [ref=e9246]: A Study of a Selective ERBB2 Inhibitor, CGT4255, in Patients With Advanced Solid Tumors With ERBB2 Genetic Alterations or HER2 Overexpression
+        - generic [ref=e9247]:
+          - generic [ref=e9248]: Advanced Solid Tumor, Adult
+          - generic [ref=e9249]: ERBB2 Altered Breast Cancer
+          - generic [ref=e9250]: ERBB2 Gene Amplification
+          - generic [ref=e9251]: HER2 Overexpression
+          - generic [ref=e9252]: Non-Small Cell Lung Cancer
+          - generic [ref=e9253]: +1 more
+        - generic [ref=e9255]:
+          - paragraph [ref=e9256]: This is an open-label, phase 1/1b study evaluating the safety, tolerability, pharmacokinetic (what the body does to the drug), pharmacodynamic (what the drug does to the body), and antitumor activity of CGT4255 in adult participants with advanced solid tumors with ERBB2 alteratio…
+          - button "↓ Read more" [ref=e9257] [cursor=pointer]
+        - generic [ref=e9259]:
+          - generic [ref=e9260]:
+            - paragraph [ref=e9261]: Organization
+            - paragraph [ref=e9262]: Cogent Biosciences, Inc.
+          - generic [ref=e9263]:
+            - paragraph [ref=e9264]: Responsible Party
+            - paragraph [ref=e9265]: Cogent Biosciences, Inc.
+          - generic [ref=e9266]:
+            - paragraph [ref=e9267]: Start Date
+            - paragraph [ref=e9268]: Dec 2025
+          - generic [ref=e9269]:
+            - paragraph [ref=e9270]: Enrollment
+            - paragraph [ref=e9271]: 100(est.)
+          - generic [ref=e9272]:
+            - paragraph [ref=e9273]: Expanded Access
+            - paragraph [ref=e9274]: "No"
+          - generic [ref=e9275]:
+            - paragraph [ref=e9276]: First Submitted
+            - paragraph [ref=e9277]: Dec 2025
+        - generic [ref=e9279]:
+          - generic [ref=e9280]:
+            - generic [ref=e9281]: "Contact:"
+            - generic [ref=e9282]: trialinfo@cogentbio.com
+            - button "Copy email" [ref=e9283] [cursor=pointer]:
+              - img [ref=e9284]
+          - link "View Trial" [ref=e9287] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07361562
+            - text: View Trial
+            - img [ref=e9288]
+      - generic [ref=e9292]:
+        - generic [ref=e9293]:
+          - generic [ref=e9294]: Recruiting
+          - generic [ref=e9296]: Phase 4
+          - generic [ref=e9297]: Interventional
+          - generic [ref=e9298]: NCT06230055
+        - generic [ref=e9299]:
+          - heading "Intrathecal Chemotherapy Through Ommaya Reservoir Upon Her-2 Negative Breast Cancer With Leptomeningeal Metastasis" [level=2] [ref=e9300]
+          - paragraph [ref=e9301]: Clinical Outcome and Quality of Life of Intrathecal Chemotherapy Through Ommaya Reservoir in Combination With Systematic Chemotherapy Versus Systematic Chemotherapy Upon Her-2 Negative Breast Cancer With Leptomeningeal Metastasis (CONQUER)
+        - generic [ref=e9302]:
+          - generic [ref=e9303]: HER2-negative Breast Cancer
+          - generic [ref=e9304]: Leptomeningeal Metastasis
+        - generic [ref=e9306]:
+          - paragraph [ref=e9307]: This is a prospective, multicenter, randomized controlled, open-label investigator-initiated clinical study to evaluate the clinical efficacy and quality of life of intrathecal chemotherapy through Ommaya reservoir in combination with systematic chemotherapy versus systemic chemo…
+          - button "↓ Read more" [ref=e9308] [cursor=pointer]
+        - generic [ref=e9310]:
+          - generic [ref=e9311]:
+            - paragraph [ref=e9312]: Organization
+            - paragraph [ref=e9313]: Fudan University
+          - generic [ref=e9314]:
+            - paragraph [ref=e9315]: Responsible Party
+            - paragraph [ref=e9316]: Jian Zhang,MD · Chief physician · Fudan University
+          - generic [ref=e9317]:
+            - paragraph [ref=e9318]: Start Date
+            - paragraph [ref=e9319]: Jan 2024
+          - generic [ref=e9320]:
+            - paragraph [ref=e9321]: Enrollment
+            - paragraph [ref=e9322]: 37(est.)
+          - generic [ref=e9323]:
+            - paragraph [ref=e9324]: Expanded Access
+            - paragraph [ref=e9325]: "No"
+          - generic [ref=e9326]:
+            - paragraph [ref=e9327]: First Submitted
+            - paragraph [ref=e9328]: Dec 2023
+        - generic [ref=e9330]:
+          - generic [ref=e9331]:
+            - generic [ref=e9332]: "Contact:"
+            - generic [ref=e9333]: syner2000@163.com
+            - button "Copy email" [ref=e9334] [cursor=pointer]:
+              - img [ref=e9335]
+          - link "View Trial" [ref=e9338] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06230055
+            - text: View Trial
+            - img [ref=e9339]
+      - generic [ref=e9343]:
+        - generic [ref=e9344]:
+          - generic [ref=e9345]: Recruiting
+          - generic [ref=e9347]: Phase 1 / Phase 2
+          - generic [ref=e9348]: Interventional
+          - generic [ref=e9349]: NCT06809530
+        - generic [ref=e9350]:
+          - heading "Intrathecal Dual Checkpoint Inhibitor (PD-1 and CTLA-4) in Combination With Pemetrexed for Leptomeningeal Metastasis" [level=2] [ref=e9351]
+          - paragraph [ref=e9352]: "Intrathecal Administration of Dual Checkpoint Inhibitor in Combination With Pemetrexed in Patients With Leptomeningeal Metastasis: a Phase I/II Study"
+        - generic [ref=e9353]:
+          - generic [ref=e9354]: Leptomeningeal Metastasis
+          - generic [ref=e9355]: Pemetrexed
+          - generic [ref=e9356]: PD-1 Inhibitor
+          - generic [ref=e9357]: CTLA4
+          - generic [ref=e9358]: Solid Tumors
+        - paragraph [ref=e9361]: This phase I/II study is to evaluate the recommended dose, safety, feasibility, and therapeutic response of intrathecal dual checkpoint inhibitor (targeting PD-1 and CTLA-4 with QL1706) in combination with pemetrexed in patients with leptomeningeal metastasis.
+        - generic [ref=e9363]:
+          - generic [ref=e9364]:
+            - paragraph [ref=e9365]: Organization
+            - paragraph [ref=e9366]: Guangzhou Medical University
+          - generic [ref=e9367]:
+            - paragraph [ref=e9368]: Responsible Party
+            - paragraph [ref=e9369]: Zhenyu Pan · Professor · Guangzhou Medical University
+          - generic [ref=e9370]:
+            - paragraph [ref=e9371]: Start Date
+            - paragraph [ref=e9372]: Mar 2025
+          - generic [ref=e9373]:
+            - paragraph [ref=e9374]: Enrollment
+            - paragraph [ref=e9375]: 34(est.)
+          - generic [ref=e9376]:
+            - paragraph [ref=e9377]: Expanded Access
+            - paragraph [ref=e9378]: "No"
+          - generic [ref=e9379]:
+            - paragraph [ref=e9380]: First Submitted
+            - paragraph [ref=e9381]: Jan 2025
+        - generic [ref=e9383]:
+          - generic [ref=e9384]:
+            - generic [ref=e9385]: "Contact:"
+            - generic [ref=e9386]: dr-zypan@163.com
+            - button "Copy email" [ref=e9387] [cursor=pointer]:
+              - img [ref=e9388]
+          - link "View Trial" [ref=e9391] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06809530
+            - text: View Trial
+            - img [ref=e9392]
+      - generic [ref=e9396]:
+        - generic [ref=e9397]:
+          - generic [ref=e9398]: Active, Not Recruiting
+          - generic [ref=e9400]: Phase 2
+          - generic [ref=e9401]: Interventional
+          - generic [ref=e9402]: NCT05305365
+        - generic [ref=e9403]:
+          - heading "Study Assessing QBS72S For Treating Brain Metastases" [level=2] [ref=e9404]
+          - paragraph [ref=e9405]: Phase IIa Study Assessing QBS72S For Treating Brain Metastases
+        - generic [ref=e9406]:
+          - generic [ref=e9407]: Brain Metastases
+          - generic [ref=e9408]: Breast Cancer
+          - generic [ref=e9409]: Lung Cancer
+          - generic [ref=e9410]: Leptomeningeal Disease
+          - generic [ref=e9411]: LMD
+        - paragraph [ref=e9414]: This study is to evaluate the efficacy and safety of QBS72S in participants with advanced, relapsed, metastatic cancer with CNS involvement
+        - generic [ref=e9416]:
+          - generic [ref=e9417]:
+            - paragraph [ref=e9418]: Organization
+            - paragraph [ref=e9419]: Stanford University
+          - generic [ref=e9420]:
+            - paragraph [ref=e9421]: Responsible Party
+            - paragraph [ref=e9422]: Stanford University
+          - generic [ref=e9423]:
+            - paragraph [ref=e9424]: Start Date
+            - paragraph [ref=e9425]: Aug 2022
+          - generic [ref=e9426]:
+            - paragraph [ref=e9427]: Enrollment
+            - paragraph [ref=e9428]: 21(actual)
+          - generic [ref=e9429]:
+            - paragraph [ref=e9430]: Expanded Access
+            - paragraph [ref=e9431]: "No"
+          - generic [ref=e9432]:
+            - paragraph [ref=e9433]: First Submitted
+            - paragraph [ref=e9434]: Mar 2022
+        - generic [ref=e9436]:
+          - generic [ref=e9437]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e9438] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05305365
+            - text: View Trial
+            - img [ref=e9439]
+      - generic [ref=e9443]:
+        - generic [ref=e9444]:
+          - generic [ref=e9445]: Recruiting
+          - generic [ref=e9447]: Phase 1 / Phase 2
+          - generic [ref=e9448]: Interventional
+          - generic [ref=e9449]: NCT06462092
+        - generic [ref=e9450]:
+          - heading "Sacituzumab Govitecan and Intrathecal Chemotherapy for Treating Leptomeningeal Metastases From Her2-negative Breast Cancer" [level=2] [ref=e9451]
+          - paragraph [ref=e9452]: A Phase I/II Clinical Study of Sacituzumab Govitecan Combined With Intrathecal Chemotherapy for the Treatment of Leptomeningeal Metastases From Her2-negative Breast Cancer
+        - generic [ref=e9454]: Leptomeningeal Metastases
+        - generic [ref=e9456]:
+          - paragraph [ref=e9457]: Leptomeningeal metastases (LM) is a lethal complication of malignant tumors, characterized by tumor cell invasion and proliferation within the subarachnoid space. LM from HER2-negative breast cancer remains challenging to treat, with a median overall survival of only 3-6 months d…
+          - button "↓ Read more" [ref=e9458] [cursor=pointer]
+        - generic [ref=e9460]:
+          - generic [ref=e9461]:
+            - paragraph [ref=e9462]: Organization
+            - paragraph [ref=e9463]: Guangzhou Medical University
+          - generic [ref=e9464]:
+            - paragraph [ref=e9465]: Responsible Party
+            - paragraph [ref=e9466]: Zhenyu Pan · Professor · Guangzhou Medical University
+          - generic [ref=e9467]:
+            - paragraph [ref=e9468]: Start Date
+            - paragraph [ref=e9469]: Dec 2025(est.)
+          - generic [ref=e9470]:
+            - paragraph [ref=e9471]: Enrollment
+            - paragraph [ref=e9472]: 34(est.)
+          - generic [ref=e9473]:
+            - paragraph [ref=e9474]: Expanded Access
+            - paragraph [ref=e9475]: "No"
+          - generic [ref=e9476]:
+            - paragraph [ref=e9477]: First Submitted
+            - paragraph [ref=e9478]: Jun 2024
+        - generic [ref=e9480]:
+          - generic [ref=e9481]:
+            - generic [ref=e9482]: "Contact:"
+            - generic [ref=e9483]: dr-zypan@163.com
+            - button "Copy email" [ref=e9484] [cursor=pointer]:
+              - img [ref=e9485]
+          - link "View Trial" [ref=e9488] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06462092
+            - text: View Trial
+            - img [ref=e9489]
+      - generic [ref=e9493]:
+        - generic [ref=e9494]:
+          - generic [ref=e9495]: Recruiting
+          - generic [ref=e9497]: Phase 2
+          - generic [ref=e9498]: Interventional
+          - generic [ref=e9499]: NCT05800275
+        - generic [ref=e9500]:
+          - heading "Capecitabine, Tucatinib, and Intrathecal Trastuzumab for Breast Cancer Patients With Leptomeningeal Disease" [level=2] [ref=e9501]
+          - paragraph [ref=e9502]: Multicentric Single Arm Phase II Study Evaluating the Efficacy of Association of Tucatinib, Capecitabine and Intra-CSF Trastuzumab in HER2 Amplified Breast Cancer Patients With Leptomeningeal Metastases
+        - generic [ref=e9503]:
+          - generic [ref=e9504]: Leptomeningeal Metastasis
+          - generic [ref=e9505]: Leptomeningeal Disease
+          - generic [ref=e9506]: HER2-positive Metastatic Breast Cancer
+        - generic [ref=e9508]:
+          - paragraph [ref=e9509]: The goal of this clinical trial is to evaluate the efficacy of tucatinib and capecitabine in combination with intrathecal trastuzumab on overall survival rate at 12 months in HER2-positive metastatic breast cancer (MBC) patients with proven leptomeningeal evolution and requiring …
+          - button "↓ Read more" [ref=e9510] [cursor=pointer]
+        - generic [ref=e9512]:
+          - generic [ref=e9513]:
+            - paragraph [ref=e9514]: Organization
+            - paragraph [ref=e9515]: UNICANCER
+          - generic [ref=e9516]:
+            - paragraph [ref=e9517]: Responsible Party
+            - paragraph [ref=e9518]: UNICANCER
+          - generic [ref=e9519]:
+            - paragraph [ref=e9520]: Start Date
+            - paragraph [ref=e9521]: Dec 2023
+          - generic [ref=e9522]:
+            - paragraph [ref=e9523]: Enrollment
+            - paragraph [ref=e9524]: 30(est.)
+          - generic [ref=e9525]:
+            - paragraph [ref=e9526]: Expanded Access
+            - paragraph [ref=e9527]: "No"
+          - generic [ref=e9528]:
+            - paragraph [ref=e9529]: First Submitted
+            - paragraph [ref=e9530]: Mar 2023
+        - generic [ref=e9532]:
+          - generic [ref=e9533]:
+            - generic [ref=e9534]: "Contact:"
+            - generic [ref=e9535]: t-roque@unicancer.fr
+            - button "Copy email" [ref=e9536] [cursor=pointer]:
+              - img [ref=e9537]
+          - link "View Trial" [ref=e9540] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05800275
+            - text: View Trial
+            - img [ref=e9541]
+      - generic [ref=e9545]:
+        - generic [ref=e9546]:
+          - generic [ref=e9547]: Recruiting
+          - generic [ref=e9549]: Interventional
+          - generic [ref=e9550]: NCT05746754
+        - generic [ref=e9551]:
+          - heading "Proton Cranio-spinal Irradiation for Leptomeningeal Metastasis" [level=2] [ref=e9552]
+          - paragraph [ref=e9553]: Phase II Study of Proton Cranio-spinal Irradiation for Leptomeningeal Metastasis
+        - generic [ref=e9555]: Leptomeningeal Metastasis
+        - generic [ref=e9557]:
+          - paragraph [ref=e9558]: Leptomeningeal metastasis is a rare but serious complication to cancer, with a grave prognosis. No efficient treatment exists. Recent data suggest that craniospinal radiotherapy lead to superior survival and CNS control compared to focal photon radiotherapy. We want to offer Dan…
+          - button "↓ Read more" [ref=e9559] [cursor=pointer]
+        - generic [ref=e9561]:
+          - generic [ref=e9562]:
+            - paragraph [ref=e9563]: Organization
+            - paragraph [ref=e9564]: University of Aarhus
+          - generic [ref=e9565]:
+            - paragraph [ref=e9566]: Responsible Party
+            - paragraph [ref=e9567]: University of Aarhus
+          - generic [ref=e9568]:
+            - paragraph [ref=e9569]: Start Date
+            - paragraph [ref=e9570]: Oct 2023
+          - generic [ref=e9571]:
+            - paragraph [ref=e9572]: Enrollment
+            - paragraph [ref=e9573]: 50(est.)
+          - generic [ref=e9574]:
+            - paragraph [ref=e9575]: Expanded Access
+            - paragraph [ref=e9576]: "No"
+          - generic [ref=e9577]:
+            - paragraph [ref=e9578]: First Submitted
+            - paragraph [ref=e9579]: Feb 2023
+        - generic [ref=e9581]:
+          - generic [ref=e9582]:
+            - generic [ref=e9583]: "Contact:"
+            - generic [ref=e9584]: kennjens@rm.dk
+            - button "Copy email" [ref=e9585] [cursor=pointer]:
+              - img [ref=e9586]
+          - link "View Trial" [ref=e9589] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05746754
+            - text: View Trial
+            - img [ref=e9590]
+      - generic [ref=e9594]:
+        - generic [ref=e9595]:
+          - generic [ref=e9596]: Recruiting
+          - generic [ref=e9598]: Phase 1 / Phase 2
+          - generic [ref=e9599]: Interventional
+          - generic [ref=e9600]: NCT06762080
+        - generic [ref=e9601]:
+          - heading "Intrathecal Combination of Programmed Death-1 (PD-1)/Cytotoxic T-Lymphocyte-Associated Protein 4 (CTLA-4) Bispecific Antibody and Pemetrexed for Leptomeningeal Metastasis" [level=2] [ref=e9602]
+          - paragraph [ref=e9603]: "Intrathecal Administration of PD-1/CTLA-4 Bispecific Antibody Plus Pemetrexed in Patients With Leptomeningeal Metastasis From Solid Tumors: A Phase I/II Study"
+        - generic [ref=e9605]: Leptomeningeal Metastasis
+        - generic [ref=e9607]:
+          - paragraph [ref=e9608]: Leptomeningeal metastasis, characterized by tumor cells infiltrating and proliferating in the subarachnoid space, represents a distinct pattern of central nervous system involvement and is a fatal complication of malignant tumors. This phase I/II study is to evaluate the recommen…
+          - button "↓ Read more" [ref=e9609] [cursor=pointer]
+        - generic [ref=e9611]:
+          - generic [ref=e9612]:
+            - paragraph [ref=e9613]: Organization
+            - paragraph [ref=e9614]: Guangzhou Medical University
+          - generic [ref=e9615]:
+            - paragraph [ref=e9616]: Responsible Party
+            - paragraph [ref=e9617]: Zhenyu Pan · Professor · Guangzhou Medical University
+          - generic [ref=e9618]:
+            - paragraph [ref=e9619]: Start Date
+            - paragraph [ref=e9620]: Mar 2025
+          - generic [ref=e9621]:
+            - paragraph [ref=e9622]: Enrollment
+            - paragraph [ref=e9623]: 36(est.)
+          - generic [ref=e9624]:
+            - paragraph [ref=e9625]: Expanded Access
+            - paragraph [ref=e9626]: "No"
+          - generic [ref=e9627]:
+            - paragraph [ref=e9628]: First Submitted
+            - paragraph [ref=e9629]: Dec 2024
+        - generic [ref=e9631]:
+          - generic [ref=e9632]:
+            - generic [ref=e9633]: "Contact:"
+            - generic [ref=e9634]: dr-zypan@163.com
+            - button "Copy email" [ref=e9635] [cursor=pointer]:
+              - img [ref=e9636]
+          - link "View Trial" [ref=e9639] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06762080
+            - text: View Trial
+            - img [ref=e9640]
+      - generic [ref=e9644]:
+        - generic [ref=e9645]:
+          - generic [ref=e9646]: Recruiting
+          - generic [ref=e9648]: Observational
+          - generic [ref=e9649]: NCT04988009
+        - heading "Patient Perceptions Around Quality of Care Through Telemedicine in Neuro-Oncology" [level=2] [ref=e9651]
+        - generic [ref=e9652]:
+          - generic [ref=e9653]: Central Nervous System Neoplasm
+          - generic [ref=e9654]: Leptomeningeal Neoplasm
+          - generic [ref=e9655]: Metastatic Malignant Neoplasm in the Brain
+          - generic [ref=e9656]: Primary Brain Neoplasm
+        - generic [ref=e9658]:
+          - paragraph [ref=e9659]: This study evaluates patient perceptions around quality of care through telemedicine in neuro-oncology. Studying questionnaires related to perceptions quality of care through telemedicine in patients with brain cancer may help doctors to improve the delivery of care through this …
+          - button "↓ Read more" [ref=e9660] [cursor=pointer]
+        - generic [ref=e9662]:
+          - generic [ref=e9663]:
+            - paragraph [ref=e9664]: Organization
+            - paragraph [ref=e9665]: M.D. Anderson Cancer Center
+          - generic [ref=e9666]:
+            - paragraph [ref=e9667]: Responsible Party
+            - paragraph [ref=e9668]: M.D. Anderson Cancer Center
+          - generic [ref=e9669]:
+            - paragraph [ref=e9670]: Start Date
+            - paragraph [ref=e9671]: Aug 2020
+          - generic [ref=e9672]:
+            - paragraph [ref=e9673]: Enrollment
+            - paragraph [ref=e9674]: 200(est.)
+          - generic [ref=e9675]:
+            - paragraph [ref=e9676]: Expanded Access
+            - paragraph [ref=e9677]: "No"
+          - generic [ref=e9678]:
+            - paragraph [ref=e9679]: First Submitted
+            - paragraph [ref=e9680]: Oct 2020
+        - generic [ref=e9682]:
+          - generic [ref=e9683]:
+            - generic [ref=e9684]: "Contact:"
+            - generic [ref=e9685]: bjobrien@mdanderson.org
+            - button "Copy email" [ref=e9686] [cursor=pointer]:
+              - img [ref=e9687]
+          - link "View Trial" [ref=e9690] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT04988009
+            - text: View Trial
+            - img [ref=e9691]
+      - generic [ref=e9695]:
+        - generic [ref=e9696]:
+          - generic [ref=e9697]: Recruiting
+          - generic [ref=e9699]: Phase 2
+          - generic [ref=e9700]: Interventional
+          - generic [ref=e9701]: NCT02422641
+        - generic [ref=e9702]:
+          - heading "Prospective Evaluation Of High-Dose Systemic Methotrexate In Patients With Breast Cancer And Leptomeningeal Metastasis" [level=2] [ref=e9703]
+          - paragraph [ref=e9704]: "Traditional Incision and Drainage of Cutaneous Abscess Vs. Minimally Invasive Incision and Drainage With Vessel Loop: A Randomized Controlled Trail"
+        - generic [ref=e9705]:
+          - generic [ref=e9706]: Metastatic Breast Cancer
+          - generic [ref=e9707]: Leptomeningeal Disease
+        - generic [ref=e9709]:
+          - paragraph [ref=e9710]: Management of leptomeningeal disease (LMD) in patients with metastatic breast cancer is an area of unmet clinical need. High-dose methotrexate (HD-MTX) is known to have activity against breast cancer and in contrast to other systemic chemotherapeutics, it penetrates the blood bra…
+          - button "↓ Read more" [ref=e9711] [cursor=pointer]
+        - generic [ref=e9713]:
+          - generic [ref=e9714]:
+            - paragraph [ref=e9715]: Organization
+            - paragraph [ref=e9716]: Wake Forest University Health Sciences
+          - generic [ref=e9717]:
+            - paragraph [ref=e9718]: Responsible Party
+            - paragraph [ref=e9719]: Wake Forest University Health Sciences
+          - generic [ref=e9720]:
+            - paragraph [ref=e9721]: Start Date
+            - paragraph [ref=e9722]: Apr 2015
+          - generic [ref=e9723]:
+            - paragraph [ref=e9724]: Enrollment
+            - paragraph [ref=e9725]: 16(est.)
+          - generic [ref=e9726]:
+            - paragraph [ref=e9727]: Expanded Access
+            - paragraph [ref=e9728]: "No"
+          - generic [ref=e9729]:
+            - paragraph [ref=e9730]: First Submitted
+            - paragraph [ref=e9731]: Apr 2015
+        - generic [ref=e9733]:
+          - generic [ref=e9734]:
+            - generic [ref=e9735]: "Contact:"
+            - generic [ref=e9736]: Efrat.Tsivian@Advocatehealth.org
+            - button "Copy email" [ref=e9737] [cursor=pointer]:
+              - img [ref=e9738]
+          - link "View Trial" [ref=e9741] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT02422641
+            - text: View Trial
+            - img [ref=e9742]
+      - generic [ref=e9746]:
+        - generic [ref=e9747]:
+          - generic [ref=e9748]: Recruiting
+          - generic [ref=e9750]: Phase 3
+          - generic [ref=e9751]: Interventional
+          - generic [ref=e9752]: NCT06500481
+        - generic [ref=e9753]:
+          - heading "Testing Proton Craniospinal Radiation Therapy Versus the Usual Radiation Therapy for Leptomeningeal Metastasis, RADIATE-LM Trial" [level=2] [ref=e9754]
+          - paragraph [ref=e9755]: A Phase III Randomized Clinical Trial of Proton Craniospinal Irradiation Versus Involved-Field Radiotherapy for Patients With Breast Cancer or Non-Small Cell Lung Cancer Leptomeningeal Metastasis (Radiate-LM)
+        - generic [ref=e9756]:
+          - generic [ref=e9757]: Anatomic Stage IV Breast Cancer AJCC v8
+          - generic [ref=e9758]: Metastatic Breast Carcinoma
+          - generic [ref=e9759]: Metastatic Lung Non-Small Cell Carcinoma
+          - generic [ref=e9760]: Metastatic Malignant Neoplasm in the Leptomeninges
+          - generic [ref=e9761]: Stage IV Lung Cancer AJCC v8
+        - generic [ref=e9763]:
+          - paragraph [ref=e9764]: This phase III trial compares proton craniospinal irradiation (pCSI) to involved-field radiation therapy (IFRT) for the treatment of breast or non-small cell lung cancer that has spread from where it first started to the cerebrospinal fluid filled space that surrounds the brain a…
+          - button "↓ Read more" [ref=e9765] [cursor=pointer]
+        - generic [ref=e9767]:
+          - generic [ref=e9768]:
+            - paragraph [ref=e9769]: Organization
+            - paragraph [ref=e9770]: NRG Oncology
+          - generic [ref=e9771]:
+            - paragraph [ref=e9772]: Responsible Party
+            - paragraph [ref=e9773]: NRG Oncology
+          - generic [ref=e9774]:
+            - paragraph [ref=e9775]: Start Date
+            - paragraph [ref=e9776]: Mar 2025
+          - generic [ref=e9777]:
+            - paragraph [ref=e9778]: Enrollment
+            - paragraph [ref=e9779]: 115(est.)
+          - generic [ref=e9780]:
+            - paragraph [ref=e9781]: Expanded Access
+            - paragraph [ref=e9782]: "No"
+          - generic [ref=e9783]:
+            - paragraph [ref=e9784]: First Submitted
+            - paragraph [ref=e9785]: Jul 2024
+        - generic [ref=e9787]:
+          - generic [ref=e9788]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e9789] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06500481
+            - text: View Trial
+            - img [ref=e9790]
+      - generic [ref=e9794]:
+        - generic [ref=e9795]:
+          - generic [ref=e9796]: Active, Not Recruiting
+          - generic [ref=e9798]: Observational
+          - generic [ref=e9799]: NCT05782374
+        - generic [ref=e9800]:
+          - heading "Real World Data on Ibrutinib Use in PCNSL Rel/Ref" [level=2] [ref=e9801]
+          - paragraph [ref=e9802]: Studio Osservazionale Retrospettivo Multicentrico Sull'Utilizzo di Ibrutinib in Monoterapia o in Associazione a Immunochemioterapia Secondo Schema R-CHOP in Pazienti Adulti Con Diagnosi di PCNSL Ricaduto o Refrattario
+        - generic [ref=e9804]: PCNSL
+        - generic [ref=e9806]:
+          - paragraph [ref=e9807]: PCNSL is a rare and aggressive subtype of B lymphoma that has been recognized as a distinct disease entity in the latest edition of the WHO Classification of Tumors of Haematopoietic and Lymphoid Tissue and is defined as DLBCL that develops exclusively in the brain parenchyma, sp…
+          - button "↓ Read more" [ref=e9808] [cursor=pointer]
+        - generic [ref=e9810]:
+          - generic [ref=e9811]:
+            - paragraph [ref=e9812]: Organization
+            - paragraph [ref=e9813]: IRCCS San Raffaele
+          - generic [ref=e9814]:
+            - paragraph [ref=e9815]: Responsible Party
+            - paragraph [ref=e9816]: Andrés José Maria Ferreri · LYMPHOMA UNIT DIRECTOR · IRCCS San Raffaele
+          - generic [ref=e9817]:
+            - paragraph [ref=e9818]: Start Date
+            - paragraph [ref=e9819]: Aug 2022
+          - generic [ref=e9820]:
+            - paragraph [ref=e9821]: Enrollment
+            - paragraph [ref=e9822]: 36(est.)
+          - generic [ref=e9823]:
+            - paragraph [ref=e9824]: Expanded Access
+            - paragraph [ref=e9825]: "No"
+          - generic [ref=e9826]:
+            - paragraph [ref=e9827]: First Submitted
+            - paragraph [ref=e9828]: Aug 2022
+        - generic [ref=e9830]:
+          - generic [ref=e9831]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e9832] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05782374
+            - text: View Trial
+            - img [ref=e9833]
+      - generic [ref=e9837]:
+        - generic [ref=e9838]:
+          - generic [ref=e9839]: Recruiting
+          - generic [ref=e9841]: Phase 2
+          - generic [ref=e9842]: Interventional
+          - generic [ref=e9843]: NCT06176261
+        - generic [ref=e9844]:
+          - 'heading "DATO-BASE: DATOpotamab-deruxtecan for Breast Cancer Brain metAstaSEs" [level=2] [ref=e9845]'
+          - paragraph [ref=e9846]: "DATO-BASE: A Phase 2 Trial of DATOpotamab-deruxtecan for Breast Cancer Brain metAstaSEs"
+        - generic [ref=e9847]:
+          - generic [ref=e9848]: Breast Cancer
+          - generic [ref=e9849]: Breast Cancer Female
+          - generic [ref=e9850]: Metastatic Triple-Negative Breast Carcinoma
+          - generic [ref=e9851]: ER Positive Breast Cancer
+          - generic [ref=e9852]: HER2-negative Breast Cancer
+          - generic [ref=e9853]: +2 more
+        - generic [ref=e9855]:
+          - paragraph [ref=e9856]: "The purpose of this study is to test the safety and effectiveness of the study drug datopotamab deruxtecan in participants with metastatic breast cancer that has spread to the brain. The name of the study drug used in this research study is: Datopotamab deruxtecan (a type of an…"
+          - button "↓ Read more" [ref=e9857] [cursor=pointer]
+        - generic [ref=e9859]:
+          - generic [ref=e9860]:
+            - paragraph [ref=e9861]: Organization
+            - paragraph [ref=e9862]: Dana-Farber Cancer Institute
+          - generic [ref=e9863]:
+            - paragraph [ref=e9864]: Responsible Party
+            - paragraph [ref=e9865]: Sarah Sammons, MD · Principal Investigator · Dana-Farber Cancer Institute
+          - generic [ref=e9866]:
+            - paragraph [ref=e9867]: Start Date
+            - paragraph [ref=e9868]: Jan 2024
+          - generic [ref=e9869]:
+            - paragraph [ref=e9870]: Enrollment
+            - paragraph [ref=e9871]: 58(est.)
+          - generic [ref=e9872]:
+            - paragraph [ref=e9873]: Expanded Access
+            - paragraph [ref=e9874]: "No"
+          - generic [ref=e9875]:
+            - paragraph [ref=e9876]: First Submitted
+            - paragraph [ref=e9877]: Dec 2023
+        - generic [ref=e9879]:
+          - generic [ref=e9880]:
+            - generic [ref=e9881]: "Contact:"
+            - generic [ref=e9882]: sarahl_sammons@dfci.harvard.edu
+            - button "Copy email" [ref=e9883] [cursor=pointer]:
+              - img [ref=e9884]
+          - link "View Trial" [ref=e9887] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06176261
+            - text: View Trial
+            - img [ref=e9888]
+      - generic [ref=e9892]:
+        - generic [ref=e9893]:
+          - generic [ref=e9894]: Not Yet Recruiting
+          - generic [ref=e9896]: Interventional
+          - generic [ref=e9897]: NCT07415018
+        - heading "Optimizing Contrast Dose and Scanning Parameters for Detection of Leptomeningeal Disease" [level=2] [ref=e9899]
+        - generic [ref=e9901]: Leptomeningeal Disease
+        - paragraph [ref=e9904]: To learn if gadopiclenol (a contrast agent) used during MRI scanning can help in the detection of early LMD.
+        - generic [ref=e9906]:
+          - generic [ref=e9907]:
+            - paragraph [ref=e9908]: Organization
+            - paragraph [ref=e9909]: M.D. Anderson Cancer Center
+          - generic [ref=e9910]:
+            - paragraph [ref=e9911]: Responsible Party
+            - paragraph [ref=e9912]: M.D. Anderson Cancer Center
+          - generic [ref=e9913]:
+            - paragraph [ref=e9914]: Start Date
+            - paragraph [ref=e9915]: Jul 2026(est.)
+          - generic [ref=e9916]:
+            - paragraph [ref=e9917]: Enrollment
+            - paragraph [ref=e9918]: 40(est.)
+          - generic [ref=e9919]:
+            - paragraph [ref=e9920]: Expanded Access
+            - paragraph [ref=e9921]: "No"
+          - generic [ref=e9922]:
+            - paragraph [ref=e9923]: First Submitted
+            - paragraph [ref=e9924]: Feb 2026
+        - generic [ref=e9926]:
+          - generic [ref=e9927]:
+            - generic [ref=e9928]: "Contact:"
+            - generic [ref=e9929]: reldaya@mdanderson.org
+            - button "Copy email" [ref=e9930] [cursor=pointer]:
+              - img [ref=e9931]
+          - link "View Trial" [ref=e9934] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07415018
+            - text: View Trial
+            - img [ref=e9935]
+      - generic [ref=e9939]:
+        - generic [ref=e9940]:
+          - generic [ref=e9941]: Active, Not Recruiting
+          - generic [ref=e9943]: Phase 1
+          - generic [ref=e9944]: Interventional
+          - generic [ref=e9945]: NCT04192981
+        - generic [ref=e9946]:
+          - heading "GDC-0084 With Radiation Therapy for People With PIK3CA-Mutated Solid Tumor Brain Metastases or Leptomeningeal Metastases" [level=2] [ref=e9947]
+          - paragraph [ref=e9948]: A Phase I Study With Expansion Cohort of Concurrent GDC-0084 With Radiation Therapy for Patients With Solid Tumor Brain Metastases or Leptomeningeal Metastases Harboring PI3K Pathway Mutations
+        - generic [ref=e9949]:
+          - generic [ref=e9950]: Brain Metastases
+          - generic [ref=e9951]: Leptomeningeal Metastasis
+        - generic [ref=e9953]:
+          - paragraph [ref=e9954]: This study will test the safety of the study drug, GDC-0084, in combination with radiation therapy in people who have solid tumor brain metastases or leptomeningeal metastases. All participants will have cancer with a PIK3CA mutation. The researchers will test increasing doses of…
+          - button "↓ Read more" [ref=e9955] [cursor=pointer]
+        - generic [ref=e9957]:
+          - generic [ref=e9958]:
+            - paragraph [ref=e9959]: Organization
+            - paragraph [ref=e9960]: Memorial Sloan Kettering Cancer Center
+          - generic [ref=e9961]:
+            - paragraph [ref=e9962]: Responsible Party
+            - paragraph [ref=e9963]: Memorial Sloan Kettering Cancer Center
+          - generic [ref=e9964]:
+            - paragraph [ref=e9965]: Start Date
+            - paragraph [ref=e9966]: Dec 2019
+          - generic [ref=e9967]:
+            - paragraph [ref=e9968]: Enrollment
+            - paragraph [ref=e9969]: 21(actual)
+          - generic [ref=e9970]:
+            - paragraph [ref=e9971]: Expanded Access
+            - paragraph [ref=e9972]: "No"
+          - generic [ref=e9973]:
+            - paragraph [ref=e9974]: First Submitted
+            - paragraph [ref=e9975]: Dec 2019
+        - generic [ref=e9977]:
+          - generic [ref=e9978]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e9979] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT04192981
+            - text: View Trial
+            - img [ref=e9980]
+      - generic [ref=e9984]:
+        - generic [ref=e9985]:
+          - generic [ref=e9986]: Recruiting
+          - generic [ref=e9988]: Phase 1
+          - generic [ref=e9989]: Interventional
+          - generic [ref=e9990]: NCT07098806
+        - generic [ref=e9991]:
+          - heading "Multiple Dose Intraventricular Administration of Rhenium-186 NanoLiposome for Leptomeningeal Metastases" [level=2] [ref=e9992]
+          - paragraph [ref=e9993]: A Multicenter Phase 1 Study to Determine the Safety and Efficacy of Multiple Doses at Defined Intervals of Rhenium (186Re) Obisbemeda (Rhenium-186 NanoLiposome, 186RNL) Administered Via Intraventricular Catheter for Any Primary Solid Tumor Cancer With Leptomeningeal Metastases
+        - generic [ref=e9995]: Leptomeningeal Metastasis
+        - generic [ref=e9997]:
+          - paragraph [ref=e9998]: This is an open-label, multicenter, Phase 1 study to determine the safety and efficacy of multiple doses at defined intervals of rhenium (186Re) obisbemeda (rhenium-186 nanoliposome, 186RNL) administered via intraventricular catheter for any primary solid tumor cancer with leptom…
+          - button "↓ Read more" [ref=e9999] [cursor=pointer]
+        - generic [ref=e10001]:
+          - generic [ref=e10002]:
+            - paragraph [ref=e10003]: Organization
+            - paragraph [ref=e10004]: Plus Therapeutics
+          - generic [ref=e10005]:
+            - paragraph [ref=e10006]: Responsible Party
+            - paragraph [ref=e10007]: Plus Therapeutics
+          - generic [ref=e10008]:
+            - paragraph [ref=e10009]: Start Date
+            - paragraph [ref=e10010]: Jul 2025
+          - generic [ref=e10011]:
+            - paragraph [ref=e10012]: Enrollment
+            - paragraph [ref=e10013]: 24(est.)
+          - generic [ref=e10014]:
+            - paragraph [ref=e10015]: Expanded Access
+            - paragraph [ref=e10016]: "No"
+          - generic [ref=e10017]:
+            - paragraph [ref=e10018]: First Submitted
+            - paragraph [ref=e10019]: Jul 2025
+        - generic [ref=e10021]:
+          - generic [ref=e10022]:
+            - generic [ref=e10023]: "Contact:"
+            - generic [ref=e10024]: patients@respect-trials.com
+            - button "Copy email" [ref=e10025] [cursor=pointer]:
+              - img [ref=e10026]
+          - link "View Trial" [ref=e10029] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07098806
+            - text: View Trial
+            - img [ref=e10030]
+      - generic [ref=e10034]:
+        - generic [ref=e10035]:
+          - generic [ref=e10036]: Recruiting
+          - generic [ref=e10038]: Observational
+          - generic [ref=e10039]: NCT06638294
+        - generic [ref=e10040]:
+          - heading "Study in Patients With Breast Cancer Leptomeningeal Metastasis" [level=2] [ref=e10041]
+          - paragraph [ref=e10042]: "A Translational Observational Biorepository and Management Study in Patients With Breast Cancer Leptomeningeal Metastasis: The BioLept Study"
+        - generic [ref=e10044]: Leptomeningeal Metastasis of Breast Cancer
+        - generic [ref=e10046]:
+          - paragraph [ref=e10047]: Traditional clinical trials in patients with breast cancer leptomeningeal disease (LMD) are challenging as patients often have a rapidly progressive course and prognosis is poor, making meeting standard eligibility difficult. Furthermore, there is limited information about the bi…
+          - button "↓ Read more" [ref=e10048] [cursor=pointer]
+        - generic [ref=e10050]:
+          - generic [ref=e10051]:
+            - paragraph [ref=e10052]: Organization
+            - paragraph [ref=e10053]: Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins
+          - generic [ref=e10054]:
+            - paragraph [ref=e10055]: Responsible Party
+            - paragraph [ref=e10056]: Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins
+          - generic [ref=e10057]:
+            - paragraph [ref=e10058]: Start Date
+            - paragraph [ref=e10059]: Nov 2024
+          - generic [ref=e10060]:
+            - paragraph [ref=e10061]: Enrollment
+            - paragraph [ref=e10062]: 30(est.)
+          - generic [ref=e10063]:
+            - paragraph [ref=e10064]: Expanded Access
+            - paragraph [ref=e10065]: "No"
+          - generic [ref=e10066]:
+            - paragraph [ref=e10067]: First Submitted
+            - paragraph [ref=e10068]: Oct 2024
+        - generic [ref=e10070]:
+          - generic [ref=e10071]:
+            - generic [ref=e10072]: "Contact:"
+            - generic [ref=e10073]: HopkinsBreastTrials@jhmi.edu
+            - button "Copy email" [ref=e10074] [cursor=pointer]:
+              - img [ref=e10075]
+          - link "View Trial" [ref=e10078] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06638294
+            - text: View Trial
+            - img [ref=e10079]
+      - generic [ref=e10083]:
+        - generic [ref=e10084]:
+          - generic [ref=e10085]: Recruiting
+          - generic [ref=e10087]: Phase 2
+          - generic [ref=e10088]: Interventional
+          - generic [ref=e10089]: NCT06376292
+        - generic [ref=e10090]:
+          - heading "A Prospective Single Arm Phase II Exploratory Study on the Combination of Whole Brain Radiotherapy, Thiotepa Intrathecal Injection and Systemic Treatment of Primary Diseases in the Treatment of Solid Tumor Leptomeningeal Metastasis" [level=2] [ref=e10091]
+          - paragraph [ref=e10092]: A Prospective Single Arm Phase II Exploratory Study on the Combination of Whole Brain Radiotherapy and Thiotepa Intrathecal Injection for Systemic Treatment of Primary Diseases in the Treatment of Solid Tumor Leptomeningeal Metastasis
+        - generic [ref=e10094]: Solid Tumor Leptomeningeal Metastasis
+        - generic [ref=e10096]:
+          - paragraph [ref=e10097]: The goal of this prospective, single-arm exploratory clinical study is to explore the safty and efficacy of whole-brain radiotherapy combined with Thiotepa intrathecal injection combined with systemic therapy for the primary disease in the treatment of leptoeningeal metastases in…
+          - button "↓ Read more" [ref=e10098] [cursor=pointer]
+        - generic [ref=e10100]:
+          - generic [ref=e10101]:
+            - paragraph [ref=e10102]: Organization
+            - paragraph [ref=e10103]: Second Affiliated Hospital, School of Medicine, Zhejiang University
+          - generic [ref=e10104]:
+            - paragraph [ref=e10105]: Responsible Party
+            - paragraph [ref=e10106]: Second Affiliated Hospital, School of Medicine, Zhejiang University
+          - generic [ref=e10107]:
+            - paragraph [ref=e10108]: Start Date
+            - paragraph [ref=e10109]: Jan 2024
+          - generic [ref=e10110]:
+            - paragraph [ref=e10111]: Enrollment
+            - paragraph [ref=e10112]: 58(est.)
+          - generic [ref=e10113]:
+            - paragraph [ref=e10114]: Expanded Access
+            - paragraph [ref=e10115]: "No"
+          - generic [ref=e10116]:
+            - paragraph [ref=e10117]: First Submitted
+            - paragraph [ref=e10118]: Feb 2024
+        - generic [ref=e10120]:
+          - generic [ref=e10121]:
+            - generic [ref=e10122]: "Contact:"
+            - generic [ref=e10123]: zezht@zju.edu.cn
+            - button "Copy email" [ref=e10124] [cursor=pointer]:
+              - img [ref=e10125]
+          - link "View Trial" [ref=e10128] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06376292
+            - text: View Trial
+            - img [ref=e10129]
+      - generic [ref=e10133]:
+        - generic [ref=e10134]:
+          - generic [ref=e10135]: Not Yet Recruiting
+          - generic [ref=e10137]: Phase 1
+          - generic [ref=e10138]: Interventional
+          - generic [ref=e10139]: NCT07199413
+        - 'heading "Allogeneic, Antigen-Presenting, GM-CSF-secreting, SV-BR-1-GM Whole Cell-Therapeutic Vaccine and Immunotherapy: A Phase I Pilot Safety and Feasibility Study for Solid Tumor Patients With CNS Metastases" [level=2] [ref=e10141]'
+        - generic [ref=e10142]:
+          - generic [ref=e10143]: Brain Metastases
+          - generic [ref=e10144]: Leptomeningeal Metastasis
+        - paragraph [ref=e10147]: This is a prospective, single-center, phase 1 basket trial that will evaluate the safety and feasibility of administering SV-BR-1-GM in combination with pembrolizumab to solid tumor oncology patients over nine cycles.
+        - generic [ref=e10149]:
+          - generic [ref=e10150]:
+            - paragraph [ref=e10151]: Organization
+            - paragraph [ref=e10152]: Medical College of Wisconsin
+          - generic [ref=e10153]:
+            - paragraph [ref=e10154]: Responsible Party
+            - paragraph [ref=e10155]: Sailaja Kamaraju · Associate Professor · Medical College of Wisconsin
+          - generic [ref=e10156]:
+            - paragraph [ref=e10157]: Start Date
+            - paragraph [ref=e10158]: Feb 2026(est.)
+          - generic [ref=e10159]:
+            - paragraph [ref=e10160]: Enrollment
+            - paragraph [ref=e10161]: 20(est.)
+          - generic [ref=e10162]:
+            - paragraph [ref=e10163]: Expanded Access
+            - paragraph [ref=e10164]: "No"
+          - generic [ref=e10165]:
+            - paragraph [ref=e10166]: First Submitted
+            - paragraph [ref=e10167]: Sep 2025
+        - generic [ref=e10169]:
+          - generic [ref=e10170]:
+            - generic [ref=e10171]: "Contact:"
+            - generic [ref=e10172]: cccto@mcw.edu
+            - button "Copy email" [ref=e10173] [cursor=pointer]:
+              - img [ref=e10174]
+          - link "View Trial" [ref=e10177] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07199413
+            - text: View Trial
+            - img [ref=e10178]
+      - generic [ref=e10182]:
+        - generic [ref=e10183]:
+          - generic [ref=e10184]: Recruiting
+          - generic [ref=e10186]: Phase 2
+          - generic [ref=e10187]: Interventional
+          - generic [ref=e10188]: NCT06910761
+        - generic [ref=e10189]:
+          - heading "Photon Craniospinal Irradiation for the Treatment of Leptomeningeal Disease Secondary to Breast Cancer or Non-small Cell Lung Cancer" [level=2] [ref=e10190]
+          - paragraph [ref=e10191]: Phase II Trial of Photon Craniospinal Irradiation for Leptomeningeal Disease Secondary to Solid Tumor Malignancy
+        - generic [ref=e10192]:
+          - generic [ref=e10193]: Anatomic Stage IV Breast Cancer AJCC v8
+          - generic [ref=e10194]: Metastatic Breast Carcinoma
+          - generic [ref=e10195]: Metastatic Lung Non-Small Cell Carcinoma
+          - generic [ref=e10196]: Metastatic Malignant Neoplasm in the Leptomeninges
+          - generic [ref=e10197]: Stage IV Lung Cancer AJCC v8
+        - generic [ref=e10199]:
+          - paragraph [ref=e10200]: This phase II trial tests how well craniospinal irradiation (CSI) using photon volumetric modulated arc radiotherapy (VMAT) works in treating patients with breast cancer or non-small cell lung cancer (NSCLC) that has spread from the original (primary) tumor to the cerebrospinal f…
+          - button "↓ Read more" [ref=e10201] [cursor=pointer]
+        - generic [ref=e10203]:
+          - generic [ref=e10204]:
+            - paragraph [ref=e10205]: Organization
+            - paragraph [ref=e10206]: City of Hope Medical Center
+          - generic [ref=e10207]:
+            - paragraph [ref=e10208]: Responsible Party
+            - paragraph [ref=e10209]: City of Hope Medical Center
+          - generic [ref=e10210]:
+            - paragraph [ref=e10211]: Start Date
+            - paragraph [ref=e10212]: May 2025
+          - generic [ref=e10213]:
+            - paragraph [ref=e10214]: Enrollment
+            - paragraph [ref=e10215]: 35(est.)
+          - generic [ref=e10216]:
+            - paragraph [ref=e10217]: Expanded Access
+            - paragraph [ref=e10218]: "No"
+          - generic [ref=e10219]:
+            - paragraph [ref=e10220]: First Submitted
+            - paragraph [ref=e10221]: Mar 2025
+        - generic [ref=e10223]:
+          - generic [ref=e10224]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e10225] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06910761
+            - text: View Trial
+            - img [ref=e10226]
+      - generic [ref=e10230]:
+        - generic [ref=e10231]:
+          - generic [ref=e10232]: Not Yet Recruiting
+          - generic [ref=e10234]: Interventional
+          - generic [ref=e10235]: NCT06984523
+        - generic [ref=e10236]:
+          - heading "Study of Craniospinal Irradiation With Linac Based Volumetric Modulated Arc Therapy (VMAT) for Patients With Leptomeningeal Metastasis" [level=2] [ref=e10237]
+          - paragraph [ref=e10238]: A Phase II Single-Arm Study of Craniospinal Irradiation With Linac Based Volumetric Modulated Arc Therapy (VMAT) for Patients With Leptomeningeal Metastasis
+        - generic [ref=e10240]: Leptomeningeal Metastasis
+        - generic [ref=e10242]:
+          - paragraph [ref=e10243]: The purpose of this study is to confirm the safety and efficacy of linac based Volumetric Modulated Arc Therapy (VMAT) for craniospinal irradiation (CSI) in solid tumor cancer patients with leptomeningeal metastasis. The primary aim is to determine if linac based VMAT CSI for lep…
+          - button "↓ Read more" [ref=e10244] [cursor=pointer]
+        - generic [ref=e10246]:
+          - generic [ref=e10247]:
+            - paragraph [ref=e10248]: Organization
+            - paragraph [ref=e10249]: NYU Langone Health
+          - generic [ref=e10250]:
+            - paragraph [ref=e10251]: Responsible Party
+            - paragraph [ref=e10252]: NYU Langone Health
+          - generic [ref=e10253]:
+            - paragraph [ref=e10254]: Start Date
+            - paragraph [ref=e10255]: May 2025(est.)
+          - generic [ref=e10256]:
+            - paragraph [ref=e10257]: Enrollment
+            - paragraph [ref=e10258]: 20(est.)
+          - generic [ref=e10259]:
+            - paragraph [ref=e10260]: Expanded Access
+            - paragraph [ref=e10261]: "No"
+          - generic [ref=e10262]:
+            - paragraph [ref=e10263]: First Submitted
+            - paragraph [ref=e10264]: May 2025
+        - generic [ref=e10266]:
+          - generic [ref=e10267]:
+            - generic [ref=e10268]: "Contact:"
+            - generic [ref=e10269]: Benjamin.cooper@nyulangone.org
+            - button "Copy email" [ref=e10270] [cursor=pointer]:
+              - img [ref=e10271]
+          - link "View Trial" [ref=e10274] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06984523
+            - text: View Trial
+            - img [ref=e10275]
+      - generic [ref=e10279]:
+        - generic [ref=e10280]:
+          - generic [ref=e10281]: Recruiting
+          - generic [ref=e10283]: Phase 2
+          - generic [ref=e10284]: Interventional
+          - generic [ref=e10285]: NCT06543992
+        - generic [ref=e10286]:
+          - heading "Efficacy and Safety of Intrathecal Administration of Thiotepa in Combination With Methotrexate in Breast Cancer With Leptomeningeal Metastasis" [level=2] [ref=e10287]
+          - paragraph [ref=e10288]: "Efficacy and Safety of Intrathecal Administration of Thiotepa in Combination With Methotrexate Via the Ommaya Reservoir in Breast Cancer With Leptomeningeal Metastasis: a Phase II Multicenter Clinical Trial"
+        - generic [ref=e10290]: Leptomeningeal Metastasis of Breast Cancer
+        - paragraph [ref=e10293]: Evaluate the efficacy and safety of Intrathecal Administration of Thiotepa in Combination with Methotrexate via the Ommaya Reservoir in Breast Cancer with Leptomeningeal Metastasis
+        - generic [ref=e10295]:
+          - generic [ref=e10296]:
+            - paragraph [ref=e10297]: Organization
+            - paragraph [ref=e10298]: The First Affiliated Hospital with Nanjing Medical University
+          - generic [ref=e10299]:
+            - paragraph [ref=e10300]: Responsible Party
+            - paragraph [ref=e10301]: The First Affiliated Hospital with Nanjing Medical University
+          - generic [ref=e10302]:
+            - paragraph [ref=e10303]: Start Date
+            - paragraph [ref=e10304]: Jul 2024
+          - generic [ref=e10305]:
+            - paragraph [ref=e10306]: Enrollment
+            - paragraph [ref=e10307]: 22(est.)
+          - generic [ref=e10308]:
+            - paragraph [ref=e10309]: Expanded Access
+            - paragraph [ref=e10310]: "No"
+          - generic [ref=e10311]:
+            - paragraph [ref=e10312]: First Submitted
+            - paragraph [ref=e10313]: Jul 2024
+        - generic [ref=e10315]:
+          - generic [ref=e10316]:
+            - generic [ref=e10317]: "Contact:"
+            - generic [ref=e10318]: real.lw@163.com
+            - button "Copy email" [ref=e10319] [cursor=pointer]:
+              - img [ref=e10320]
+          - link "View Trial" [ref=e10323] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06543992
+            - text: View Trial
+            - img [ref=e10324]
+      - generic [ref=e10328]:
+        - generic [ref=e10329]:
+          - generic [ref=e10330]: Active, Not Recruiting
+          - generic [ref=e10332]: Phase 1
+          - generic [ref=e10333]: Interventional
+          - generic [ref=e10334]: NCT04460937
+        - generic [ref=e10335]:
+          - heading "Testing the Addition of an Anti-cancer Drug, Adavosertib, to Radiation Therapy for Patients With Incurable Esophageal and Gastroesophageal Junction Cancers" [level=2] [ref=e10336]
+          - paragraph [ref=e10337]: A Phase 1 Trial Combining WEE1 Inhibitor Adavosertib (AZD1775) With Radiation Therapy for Metastatic or Inoperable and Ineligible for Definitive Chemoradiation Esophageal and Gastroesophageal Junction Cancer
+        - generic [ref=e10338]:
+          - generic [ref=e10339]: Clinical Stage III Esophageal Adenocarcinoma AJCC v8
+          - generic [ref=e10340]: Clinical Stage III Esophageal Squamous Cell Carcinoma AJCC v8
+          - generic [ref=e10341]: Clinical Stage III Gastroesophageal Junction Adenocarcinoma AJCC v8
+          - generic [ref=e10342]: Clinical Stage IV Esophageal Adenocarcinoma AJCC v8
+          - generic [ref=e10343]: Clinical Stage IV Esophageal Squamous Cell Carcinoma AJCC v8
+          - generic [ref=e10344]: +54 more
+        - generic [ref=e10346]:
+          - paragraph [ref=e10347]: This phase I trial investigates the side effects and best dose of adavosertib and how well it works when given in combination with radiation therapy in treating patients with esophageal or gastroesophageal junction cancer for which no treatment is currently available (incurable).…
+          - button "↓ Read more" [ref=e10348] [cursor=pointer]
+        - generic [ref=e10350]:
+          - generic [ref=e10351]:
+            - paragraph [ref=e10352]: Organization
+            - paragraph [ref=e10353]: National Cancer Institute (NCI)
+          - generic [ref=e10354]:
+            - paragraph [ref=e10355]: Responsible Party
+            - paragraph [ref=e10356]: National Cancer Institute (NCI)
+          - generic [ref=e10357]:
+            - paragraph [ref=e10358]: Start Date
+            - paragraph [ref=e10359]: Apr 2021
+          - generic [ref=e10360]:
+            - paragraph [ref=e10361]: Enrollment
+            - paragraph [ref=e10362]: 4(actual)
+          - generic [ref=e10363]:
+            - paragraph [ref=e10364]: Expanded Access
+            - paragraph [ref=e10365]: "No"
+          - generic [ref=e10366]:
+            - paragraph [ref=e10367]: First Submitted
+            - paragraph [ref=e10368]: Jul 2020
+        - generic [ref=e10370]:
+          - generic [ref=e10371]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e10372] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT04460937
+            - text: View Trial
+            - img [ref=e10373]
+      - generic [ref=e10377]:
+        - generic [ref=e10378]:
+          - generic [ref=e10379]: Recruiting
+          - generic [ref=e10381]: Phase 1
+          - generic [ref=e10382]: Interventional
+          - generic [ref=e10383]: NCT05184816
+        - generic [ref=e10384]:
+          - heading "A Study of Deferoxamine (DFO) in People With Leptomeningeal Metastasis" [level=2] [ref=e10385]
+          - paragraph [ref=e10386]: A Phase 1a/1b Trial of Intrathecal Deferoxamine for Leptomeningeal Metastases
+        - generic [ref=e10388]: Leptomeningeal Metastases
+        - generic [ref=e10390]:
+          - paragraph [ref=e10391]: The researchers are doing this study to find out whether deferoxamine (DFO) given intrathecally (directly into the CSF) is a safe treatment for people with leptomeningeal metastasis from solid tumor cancer. The researchers will test different doses of DFO to find the highest dose…
+          - button "↓ Read more" [ref=e10392] [cursor=pointer]
+        - generic [ref=e10394]:
+          - generic [ref=e10395]:
+            - paragraph [ref=e10396]: Organization
+            - paragraph [ref=e10397]: Memorial Sloan Kettering Cancer Center
+          - generic [ref=e10398]:
+            - paragraph [ref=e10399]: Responsible Party
+            - paragraph [ref=e10400]: Memorial Sloan Kettering Cancer Center
+          - generic [ref=e10401]:
+            - paragraph [ref=e10402]: Start Date
+            - paragraph [ref=e10403]: Dec 2021
+          - generic [ref=e10404]:
+            - paragraph [ref=e10405]: Enrollment
+            - paragraph [ref=e10406]: 35(est.)
+          - generic [ref=e10407]:
+            - paragraph [ref=e10408]: Expanded Access
+            - paragraph [ref=e10409]: "No"
+          - generic [ref=e10410]:
+            - paragraph [ref=e10411]: First Submitted
+            - paragraph [ref=e10412]: Dec 2021
+        - generic [ref=e10414]:
+          - generic [ref=e10415]:
+            - generic [ref=e10416]: "Contact:"
+            - generic [ref=e10417]: wilcoxj@mskcc.org
+            - button "Copy email" [ref=e10418] [cursor=pointer]:
+              - img [ref=e10419]
+          - link "View Trial" [ref=e10422] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05184816
+            - text: View Trial
+            - img [ref=e10423]
+      - generic [ref=e10427]:
+        - generic [ref=e10428]:
+          - generic [ref=e10429]: Recruiting
+          - generic [ref=e10431]: Phase 2
+          - generic [ref=e10432]: Interventional
+          - generic [ref=e10433]: NCT07263425
+        - generic [ref=e10434]:
+          - heading "Efficacy and Safety of Intrathecal Administration of Thiotepa in Combination With Trastuzumab in Breast Cancer With Leptomeningeal Metastasis" [level=2] [ref=e10435]
+          - paragraph [ref=e10436]: "Efficacy and Safety of Intrathecal Administration of Thiotepa in Combination With Trastuzumab Via the Ommaya Reservoir in Breast Cancer With Leptomeningeal Metastasis: a Phase II Multicenter Clinical Trial"
+        - generic [ref=e10438]: Leptomeningeal Metastasis of HER2-positive Breast Cancer
+        - paragraph [ref=e10441]: Evaluate the efficacy and safety of Intrathecal Administration of Thiotepa in Combination with Trastuzumab via the Ommaya Reservoir in Breast Cancer with Leptomeningeal Metastasis
+        - generic [ref=e10443]:
+          - generic [ref=e10444]:
+            - paragraph [ref=e10445]: Organization
+            - paragraph [ref=e10446]: The First Affiliated Hospital with Nanjing Medical University
+          - generic [ref=e10447]:
+            - paragraph [ref=e10448]: Responsible Party
+            - paragraph [ref=e10449]: The First Affiliated Hospital with Nanjing Medical University
+          - generic [ref=e10450]:
+            - paragraph [ref=e10451]: Start Date
+            - paragraph [ref=e10452]: Oct 2025
+          - generic [ref=e10453]:
+            - paragraph [ref=e10454]: Enrollment
+            - paragraph [ref=e10455]: 26(est.)
+          - generic [ref=e10456]:
+            - paragraph [ref=e10457]: Expanded Access
+            - paragraph [ref=e10458]: "No"
+          - generic [ref=e10459]:
+            - paragraph [ref=e10460]: First Submitted
+            - paragraph [ref=e10461]: Nov 2025
+        - generic [ref=e10463]:
+          - generic [ref=e10464]:
+            - generic [ref=e10465]: "Contact:"
+            - generic [ref=e10466]: real.lw@163.com
+            - button "Copy email" [ref=e10467] [cursor=pointer]:
+              - img [ref=e10468]
+          - link "View Trial" [ref=e10471] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07263425
+            - text: View Trial
+            - img [ref=e10472]
+      - generic [ref=e10476]:
+        - generic [ref=e10477]:
+          - generic [ref=e10478]: Recruiting
+          - generic [ref=e10480]: Phase 1 / Phase 2
+          - generic [ref=e10481]: Interventional
+          - generic [ref=e10482]: NCT06809517
+        - generic [ref=e10483]:
+          - heading "Intrathecal PD-1/VEGF Bispecific Antibody Plus Pemetrexed for Leptomeningeal Metastasis" [level=2] [ref=e10484]
+          - paragraph [ref=e10485]: A Phase I/II Clinical Study of Intrathecal Combination Therapy With the PD-1/VEGF Bispecific Antibody and Pemetrexed for Leptomeningeal Metastasis
+        - generic [ref=e10486]:
+          - generic [ref=e10487]: Leptomeningeal Metastasis
+          - generic [ref=e10488]: Intrathecal Drug Delivery
+        - generic [ref=e10490]:
+          - paragraph [ref=e10491]: Leptomeningeal metastasis, characterized by tumor cells infiltrating and proliferating in the subarachnoid space, represents a distinct pattern of central nervous system involvement and is a fatal complication of malignant tumors. This phase I/II study is to evaluate the recomme…
+          - button "↓ Read more" [ref=e10492] [cursor=pointer]
+        - generic [ref=e10494]:
+          - generic [ref=e10495]:
+            - paragraph [ref=e10496]: Organization
+            - paragraph [ref=e10497]: Guangzhou Medical University
+          - generic [ref=e10498]:
+            - paragraph [ref=e10499]: Responsible Party
+            - paragraph [ref=e10500]: Zhenyu Pan · Professor · Guangzhou Medical University
+          - generic [ref=e10501]:
+            - paragraph [ref=e10502]: Start Date
+            - paragraph [ref=e10503]: Mar 2025
+          - generic [ref=e10504]:
+            - paragraph [ref=e10505]: Enrollment
+            - paragraph [ref=e10506]: 34(est.)
+          - generic [ref=e10507]:
+            - paragraph [ref=e10508]: Expanded Access
+            - paragraph [ref=e10509]: "No"
+          - generic [ref=e10510]:
+            - paragraph [ref=e10511]: First Submitted
+            - paragraph [ref=e10512]: Jan 2025
+        - generic [ref=e10514]:
+          - generic [ref=e10515]:
+            - generic [ref=e10516]: "Contact:"
+            - generic [ref=e10517]: dr-zypan@163.com
+            - button "Copy email" [ref=e10518] [cursor=pointer]:
+              - img [ref=e10519]
+          - link "View Trial" [ref=e10522] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06809517
+            - text: View Trial
+            - img [ref=e10523]
+      - generic [ref=e10527]:
+        - generic [ref=e10528]:
+          - generic [ref=e10529]: Recruiting
+          - generic [ref=e10531]: Observational
+          - generic [ref=e10532]: NCT06417710
+        - heading "Standardized Clinical Assessment of Patients With Leptomeningeal Metastasis" [level=2] [ref=e10534]
+        - generic [ref=e10535]:
+          - generic [ref=e10536]: Leptomeningeal Metastasis
+          - generic [ref=e10537]: Leptomeningeal Disease
+          - generic [ref=e10538]: Leptomeningeal Neoplasms
+          - generic [ref=e10539]: Leptomeningeal Cancer
+        - paragraph [ref=e10542]: The goal of this project is to develop and validate a reproducible scorecard for the neurological assessment of patients with leptomeningeal metastases that can be used in clinical trials including such patients, as well as in clinical practice.
+        - generic [ref=e10544]:
+          - generic [ref=e10545]:
+            - paragraph [ref=e10546]: Organization
+            - paragraph [ref=e10547]: University of Zurich
+          - generic [ref=e10548]:
+            - paragraph [ref=e10549]: Responsible Party
+            - paragraph [ref=e10550]: University of Zurich
+          - generic [ref=e10551]:
+            - paragraph [ref=e10552]: Start Date
+            - paragraph [ref=e10553]: Jan 2022
+          - generic [ref=e10554]:
+            - paragraph [ref=e10555]: Enrollment
+            - paragraph [ref=e10556]: 200(est.)
+          - generic [ref=e10557]:
+            - paragraph [ref=e10558]: Expanded Access
+            - paragraph [ref=e10559]: "No"
+          - generic [ref=e10560]:
+            - paragraph [ref=e10561]: First Submitted
+            - paragraph [ref=e10562]: May 2024
+        - generic [ref=e10564]:
+          - generic [ref=e10565]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e10566] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06417710
+            - text: View Trial
+            - img [ref=e10567]
+      - generic [ref=e10571]:
+        - generic [ref=e10572]:
+          - generic [ref=e10573]: Active, Not Recruiting
+          - generic [ref=e10575]: Interventional
+          - generic [ref=e10576]: NCT05793489
+        - generic [ref=e10577]:
+          - 'heading "Prospective Double Arm Randomized Trial: WBRT Alone and WBRT Plus Silibinin" [level=2] [ref=e10578]'
+          - paragraph [ref=e10579]: "Prospective Double Arm Randomized Trial for Patients With Multiple Brain Metastasis and/or Leptomeningeal Carcinomatosis: Comparison of WBRT Alone and WBRT Plus Silibinin (Sillbrain)"
+        - generic [ref=e10581]: Brain Metastases, Adult
+        - generic [ref=e10583]:
+          - paragraph [ref=e10584]: The occurrence of brain metastases (BMs) is increasing given the availability of a more accurate radiological imaging such as MRI for detecting also small brain lesions and the most effective systemic therapy able to control extracranial disease. Although, the new target therapy …
+          - button "↓ Read more" [ref=e10585] [cursor=pointer]
+        - generic [ref=e10587]:
+          - generic [ref=e10588]:
+            - paragraph [ref=e10589]: Organization
+            - paragraph [ref=e10590]: Istituto Clinico Humanitas
+          - generic [ref=e10591]:
+            - paragraph [ref=e10592]: Responsible Party
+            - paragraph [ref=e10593]: Istituto Clinico Humanitas
+          - generic [ref=e10594]:
+            - paragraph [ref=e10595]: Start Date
+            - paragraph [ref=e10596]: Mar 2023
+          - generic [ref=e10597]:
+            - paragraph [ref=e10598]: Enrollment
+            - paragraph [ref=e10599]: 44(est.)
+          - generic [ref=e10600]:
+            - paragraph [ref=e10601]: Expanded Access
+            - paragraph [ref=e10602]: "No"
+          - generic [ref=e10603]:
+            - paragraph [ref=e10604]: First Submitted
+            - paragraph [ref=e10605]: Mar 2023
+        - generic [ref=e10607]:
+          - generic [ref=e10608]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e10609] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05793489
+            - text: View Trial
+            - img [ref=e10610]
+      - generic [ref=e10614]:
+        - generic [ref=e10615]:
+          - generic [ref=e10616]: Recruiting
+          - generic [ref=e10618]: Phase 1
+          - generic [ref=e10619]: Interventional
+          - generic [ref=e10620]: NCT05112549
+        - heading "Intrathecal Application of PD1 Antibody in Metastatic Solid Tumors With Leptomeningeal Disease (IT-PD1/ NOA 26)" [level=2] [ref=e10622]
+        - generic [ref=e10624]: Leptomeningeal Disease
+        - paragraph [ref=e10627]: To determine the safety of intrathecal (IT) PD1 antibody for Intrathecal application of PD1 antibody in metastatic solid tumors with leptomeningeal disease of solid tumors.
+        - generic [ref=e10629]:
+          - generic [ref=e10630]:
+            - paragraph [ref=e10631]: Organization
+            - paragraph [ref=e10632]: University Hospital Tuebingen
+          - generic [ref=e10633]:
+            - paragraph [ref=e10634]: Responsible Party
+            - paragraph [ref=e10635]: University Hospital Tuebingen
+          - generic [ref=e10636]:
+            - paragraph [ref=e10637]: Start Date
+            - paragraph [ref=e10638]: Oct 2021
+          - generic [ref=e10639]:
+            - paragraph [ref=e10640]: Enrollment
+            - paragraph [ref=e10641]: 46(est.)
+          - generic [ref=e10642]:
+            - paragraph [ref=e10643]: Expanded Access
+            - paragraph [ref=e10644]: "No"
+          - generic [ref=e10645]:
+            - paragraph [ref=e10646]: First Submitted
+            - paragraph [ref=e10647]: Oct 2021
+        - generic [ref=e10649]:
+          - generic [ref=e10650]:
+            - generic [ref=e10651]: "Contact:"
+            - generic [ref=e10652]: ghazaleh.tabatabai@uni-tuebingen.de
+            - button "Copy email" [ref=e10653] [cursor=pointer]:
+              - img [ref=e10654]
+          - link "View Trial" [ref=e10657] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05112549
+            - text: View Trial
+            - img [ref=e10658]
+      - generic [ref=e10662]:
+        - generic [ref=e10663]:
+          - generic [ref=e10664]: Recruiting
+          - generic [ref=e10666]: Phase 1 / Phase 2
+          - generic [ref=e10667]: Interventional
+          - generic [ref=e10668]: NCT07134153
+        - generic [ref=e10669]:
+          - heading "Phase I/II Study of Intrathecal/Ommaya T-DXd in HER2-Expressing Breast Cancer With Leptomeningeal/Brain Metastases" [level=2] [ref=e10670]
+          - paragraph [ref=e10671]: "Evaluating Safety and Efficacy of INtrathecal or Ommaya ReserVoir Administration of T-DXd in Patients With HER2-Expressing Breast Cancer With Active Leptomeningeal and/or Brain Metastases Based on Systemic Therapy: Phase I/II Study"
+        - generic [ref=e10673]: Breast Cancer
+        - generic [ref=e10675]:
+          - paragraph [ref=e10676]: Multiple trials confirm systemic T-DXd efficacy in HER2+ breast cancer with leptomeningeal/brain metastases, yet median LM survival remains 3-4 months, highlighting unmet needs. While systemic therapies improve survival, intracranial disease control remains limited due to poor BB…
+          - button "↓ Read more" [ref=e10677] [cursor=pointer]
+        - generic [ref=e10679]:
+          - generic [ref=e10680]:
+            - paragraph [ref=e10681]: Organization
+            - paragraph [ref=e10682]: Fudan University
+          - generic [ref=e10683]:
+            - paragraph [ref=e10684]: Responsible Party
+            - paragraph [ref=e10685]: Jian Zhang,MD · Director of Phase I Clinical Trial Department; Professor, Chief physician of oncology department · Fudan University
+          - generic [ref=e10686]:
+            - paragraph [ref=e10687]: Start Date
+            - paragraph [ref=e10688]: Apr 2025
+          - generic [ref=e10689]:
+            - paragraph [ref=e10690]: Enrollment
+            - paragraph [ref=e10691]: 139(est.)
+          - generic [ref=e10692]:
+            - paragraph [ref=e10693]: Expanded Access
+            - paragraph [ref=e10694]: "No"
+          - generic [ref=e10695]:
+            - paragraph [ref=e10696]: First Submitted
+            - paragraph [ref=e10697]: May 2025
+        - generic [ref=e10699]:
+          - generic [ref=e10700]:
+            - generic [ref=e10701]: "Contact:"
+            - generic [ref=e10702]: syner2000@163.com
+            - button "Copy email" [ref=e10703] [cursor=pointer]:
+              - img [ref=e10704]
+          - link "View Trial" [ref=e10707] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07134153
+            - text: View Trial
+            - img [ref=e10708]
+      - generic [ref=e10712]:
+        - generic [ref=e10713]:
+          - generic [ref=e10714]: Not Yet Recruiting
+          - generic [ref=e10716]: Phase 1 / Phase 2
+          - generic [ref=e10717]: Interventional
+          - generic [ref=e10718]: NCT07177950
+        - generic [ref=e10719]:
+          - heading "A Two-cohort Study of SHR-A1811 in the Treatment of HER2-positive Breast Cancer With Brain Metastases" [level=2] [ref=e10720]
+          - paragraph [ref=e10721]: A Two-cohort Study of SHR-A1811 in the Treatment of HER2-positive Breast Cancer With Brain Metastases, With or Without Leptomeningeal Metastases.
+        - generic [ref=e10722]:
+          - generic [ref=e10723]: Breast Cancer
+          - generic [ref=e10724]: Brain Metastases
+          - generic [ref=e10725]: Leptomeningeal Metastasis
+        - generic [ref=e10727]:
+          - paragraph [ref=e10728]: This is a multi-center, open-label, two-cohort study. The purpose of this study is to evaluate the safety, tolerability and efficacy of SHR-A1811 in the treatment of HER2-positive breast cancer with brain and leptomeningeal metastases, and the efficacy and safety of SHR-A1811 in …
+          - button "↓ Read more" [ref=e10729] [cursor=pointer]
+        - generic [ref=e10731]:
+          - generic [ref=e10732]:
+            - paragraph [ref=e10733]: Organization
+            - paragraph [ref=e10734]: Peking University Cancer Hospital & Institute
+          - generic [ref=e10735]:
+            - paragraph [ref=e10736]: Responsible Party
+            - paragraph [ref=e10737]: Peking University Cancer Hospital & Institute
+          - generic [ref=e10738]:
+            - paragraph [ref=e10739]: Start Date
+            - paragraph [ref=e10740]: Sep 2025(est.)
+          - generic [ref=e10741]:
+            - paragraph [ref=e10742]: Enrollment
+            - paragraph [ref=e10743]: 51(est.)
+          - generic [ref=e10744]:
+            - paragraph [ref=e10745]: Expanded Access
+            - paragraph [ref=e10746]: "No"
+          - generic [ref=e10747]:
+            - paragraph [ref=e10748]: First Submitted
+            - paragraph [ref=e10749]: Sep 2025
+        - generic [ref=e10751]:
+          - generic [ref=e10752]:
+            - generic [ref=e10753]: "Contact:"
+            - generic [ref=e10754]: shaobin79@aliyun.com
+            - button "Copy email" [ref=e10755] [cursor=pointer]:
+              - img [ref=e10756]
+          - link "View Trial" [ref=e10759] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07177950
+            - text: View Trial
+            - img [ref=e10760]
+      - generic [ref=e10764]:
+        - generic [ref=e10765]:
+          - generic [ref=e10766]: Recruiting
+          - generic [ref=e10768]: Phase 1
+          - generic [ref=e10769]: Interventional
+          - generic [ref=e10770]: NCT05809752
+        - generic [ref=e10771]:
+          - heading "A First in Human Dose Escalation of Dendritic Cell Vaccine (DCV)" [level=2] [ref=e10772]
+          - paragraph [ref=e10773]: A First in Human Dose Escalation of Dendritic Cell Vaccine (DCV) Administered Intrathecally (IT) Primed Against HER2/HER3 in Patients With Leptomeningeal Disease (LMD) From Triple-Negative Breast Cancer (TNBC) or HER2+ Breast Cancer (HER2+BC)
+        - generic [ref=e10774]:
+          - generic [ref=e10775]: Leptomeningeal Disease
+          - generic [ref=e10776]: Triple Negative Breast Cancer
+          - generic [ref=e10777]: HER2-positive Breast Cancer
+        - paragraph [ref=e10780]: The purpose of this study is to learn about the effects of the study treatment, Dendritic Cell Vaccine (DCV), to find the highest dose of the study treatment that can be given safely to Breast Cancer patients with Leptomeningeal Disease
+        - generic [ref=e10782]:
+          - generic [ref=e10783]:
+            - paragraph [ref=e10784]: Organization
+            - paragraph [ref=e10785]: H. Lee Moffitt Cancer Center and Research Institute
+          - generic [ref=e10786]:
+            - paragraph [ref=e10787]: Responsible Party
+            - paragraph [ref=e10788]: H. Lee Moffitt Cancer Center and Research Institute
+          - generic [ref=e10789]:
+            - paragraph [ref=e10790]: Start Date
+            - paragraph [ref=e10791]: Aug 2023
+          - generic [ref=e10792]:
+            - paragraph [ref=e10793]: Enrollment
+            - paragraph [ref=e10794]: 18(est.)
+          - generic [ref=e10795]:
+            - paragraph [ref=e10796]: Expanded Access
+            - paragraph [ref=e10797]: "No"
+          - generic [ref=e10798]:
+            - paragraph [ref=e10799]: First Submitted
+            - paragraph [ref=e10800]: Mar 2023
+        - generic [ref=e10802]:
+          - generic [ref=e10803]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e10804] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT05809752
+            - text: View Trial
+            - img [ref=e10805]
+      - generic [ref=e10809]:
+        - generic [ref=e10810]:
+          - generic [ref=e10811]: Recruiting
+          - generic [ref=e10813]: Observational
+          - generic [ref=e10814]: NCT06146010
+        - generic [ref=e10815]:
+          - heading "Non Interventional German Leptomeningeal Disease Register" [level=2] [ref=e10816]
+          - paragraph [ref=e10817]: Deutsches Meningeosis Neoplastica Register
+        - generic [ref=e10818]:
+          - generic [ref=e10819]: Meningeal Neoplasms
+          - generic [ref=e10820]: Leptomeningeal Disease
+        - paragraph [ref=e10823]: The planned multicenter register is intended to create a database in the form of a cancer register on the incidence and course of disease in Germany of leptomeningeal disease, the therapeutic measures administered in the real world and the complications.
+        - generic [ref=e10825]:
+          - generic [ref=e10826]:
+            - paragraph [ref=e10827]: Organization
+            - paragraph [ref=e10828]: University Hospital Tuebingen
+          - generic [ref=e10829]:
+            - paragraph [ref=e10830]: Responsible Party
+            - paragraph [ref=e10831]: University Hospital Tuebingen
+          - generic [ref=e10832]:
+            - paragraph [ref=e10833]: Start Date
+            - paragraph [ref=e10834]: Jun 2024
+          - generic [ref=e10835]:
+            - paragraph [ref=e10836]: Enrollment
+            - paragraph [ref=e10837]: 50(est.)
+          - generic [ref=e10838]:
+            - paragraph [ref=e10839]: Expanded Access
+            - paragraph [ref=e10840]: "No"
+          - generic [ref=e10841]:
+            - paragraph [ref=e10842]: First Submitted
+            - paragraph [ref=e10843]: Nov 2023
+        - generic [ref=e10845]:
+          - generic [ref=e10846]:
+            - generic [ref=e10847]: "Contact:"
+            - generic [ref=e10848]: Tabatabai.Office@med.uni-tuebingen.de
+            - button "Copy email" [ref=e10849] [cursor=pointer]:
+              - img [ref=e10850]
+          - link "View Trial" [ref=e10853] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT06146010
+            - text: View Trial
+            - img [ref=e10854]
+      - generic [ref=e10858]:
+        - generic [ref=e10859]:
+          - generic [ref=e10860]: Active, Not Recruiting
+          - generic [ref=e10862]: Early Phase 1
+          - generic [ref=e10863]: Interventional
+          - generic [ref=e10864]: NCT03684980
+        - heading "LTA Pilot Study of Glucarpidase in Patients With Central Nervous System Lymphoma" [level=2] [ref=e10866]
+        - generic [ref=e10868]: Central Nervous System Lymphoma
+        - paragraph [ref=e10871]: The purpose of this study is to test the effects of a drug called Voraxaze when it's routinely given in combination with methotrexate and rituximab, the standard treatment for CNSL.
+        - generic [ref=e10873]:
+          - generic [ref=e10874]:
+            - paragraph [ref=e10875]: Organization
+            - paragraph [ref=e10876]: Memorial Sloan Kettering Cancer Center
+          - generic [ref=e10877]:
+            - paragraph [ref=e10878]: Responsible Party
+            - paragraph [ref=e10879]: Memorial Sloan Kettering Cancer Center
+          - generic [ref=e10880]:
+            - paragraph [ref=e10881]: Start Date
+            - paragraph [ref=e10882]: Nov 2018
+          - generic [ref=e10883]:
+            - paragraph [ref=e10884]: Enrollment
+            - paragraph [ref=e10885]: 58(actual)
+          - generic [ref=e10886]:
+            - paragraph [ref=e10887]: Expanded Access
+            - paragraph [ref=e10888]: "No"
+          - generic [ref=e10889]:
+            - paragraph [ref=e10890]: First Submitted
+            - paragraph [ref=e10891]: Sep 2018
+        - generic [ref=e10893]:
+          - generic [ref=e10894]: Contact via ClinicalTrials.gov
+          - link "View Trial" [ref=e10895] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT03684980
+            - text: View Trial
+            - img [ref=e10896]
+      - generic [ref=e10900]:
+        - generic [ref=e10901]:
+          - generic [ref=e10902]: Not Yet Recruiting
+          - generic [ref=e10904]: Early Phase 1
+          - generic [ref=e10905]: Interventional
+          - generic [ref=e10906]: NCT07039760
+        - generic [ref=e10907]:
+          - heading "Asciminib With or Without Sildenafil for Brain Tumors" [level=2] [ref=e10908]
+          - paragraph [ref=e10909]: An Early Phase 1 Study of Asciminib With or Without Sildenafil for Brain Tumors
+        - generic [ref=e10911]: Brain Tumor
+        - generic [ref=e10913]:
+          - paragraph [ref=e10914]: Dissemination of medulloblastoma is an independent risk factor of poor prognosis. Dissemination of medulloblastoma at recurrence is nearly universally fatal. ABL1 and 2 have been recently found to mediate the dissemination of medulloblastoma. Genetically inactivating ABL1 and 2 r…
+          - button "↓ Read more" [ref=e10915] [cursor=pointer]
+        - generic [ref=e10917]:
+          - generic [ref=e10918]:
+            - paragraph [ref=e10919]: Organization
+            - paragraph [ref=e10920]: Washington University School of Medicine
+          - generic [ref=e10921]:
+            - paragraph [ref=e10922]: Responsible Party
+            - paragraph [ref=e10923]: Washington University School of Medicine
+          - generic [ref=e10924]:
+            - paragraph [ref=e10925]: Start Date
+            - paragraph [ref=e10926]: Apr 2026(est.)
+          - generic [ref=e10927]:
+            - paragraph [ref=e10928]: Enrollment
+            - paragraph [ref=e10929]: 12(est.)
+          - generic [ref=e10930]:
+            - paragraph [ref=e10931]: Expanded Access
+            - paragraph [ref=e10932]: "No"
+          - generic [ref=e10933]:
+            - paragraph [ref=e10934]: First Submitted
+            - paragraph [ref=e10935]: Jun 2025
+        - generic [ref=e10937]:
+          - generic [ref=e10938]:
+            - generic [ref=e10939]: "Contact:"
+            - generic [ref=e10940]: pedshemonctrialreferral@wustl.edu
+            - button "Copy email" [ref=e10941] [cursor=pointer]:
+              - img [ref=e10942]
+          - link "View Trial" [ref=e10945] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07039760
+            - text: View Trial
+            - img [ref=e10946]
+      - generic [ref=e10950]:
+        - generic [ref=e10951]:
+          - generic [ref=e10952]: Recruiting
+          - generic [ref=e10954]: Interventional
+          - generic [ref=e10955]: NCT04109131
+        - generic [ref=e10956]:
+          - heading "A Brain Metastases Research Platform to Tackle the Challenge of CNS Metastases in Solid Tumours" [level=2] [ref=e10957]
+          - paragraph [ref=e10958]: A Brain Metastases Research Platform to Tackle the Challenge of CNS Metastases in Solid Tumours - BrainStorm Program
+        - generic [ref=e10960]: CNS Metastases
+        - generic [ref=e10962]:
+          - paragraph [ref=e10963]: Despite some encouraging data, systemic treatment of CNS metastases from solid tumors remains experimental. Better knowledge on the evolving epidemiology and biology of BM are key elements for the development of new treatment strategies and identification of promising therapeuti…
+          - button "↓ Read more" [ref=e10964] [cursor=pointer]
+        - generic [ref=e10966]:
+          - generic [ref=e10967]:
+            - paragraph [ref=e10968]: Organization
+            - paragraph [ref=e10969]: Jules Bordet Institute
+          - generic [ref=e10970]:
+            - paragraph [ref=e10971]: Responsible Party
+            - paragraph [ref=e10972]: Jules Bordet Institute
+          - generic [ref=e10973]:
+            - paragraph [ref=e10974]: Start Date
+            - paragraph [ref=e10975]: Jun 2020
+          - generic [ref=e10976]:
+            - paragraph [ref=e10977]: Enrollment
+            - paragraph [ref=e10978]: 600(est.)
+          - generic [ref=e10979]:
+            - paragraph [ref=e10980]: Expanded Access
+            - paragraph [ref=e10981]: "No"
+          - generic [ref=e10982]:
+            - paragraph [ref=e10983]: First Submitted
+            - paragraph [ref=e10984]: Jul 2019
+        - generic [ref=e10986]:
+          - generic [ref=e10987]:
+            - generic [ref=e10988]: "Contact:"
+            - generic [ref=e10989]: nuria.kotecki@bordet.be
+            - button "Copy email" [ref=e10990] [cursor=pointer]:
+              - img [ref=e10991]
+          - link "View Trial" [ref=e10994] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT04109131
+            - text: View Trial
+            - img [ref=e10995]
+      - generic [ref=e10999]:
+        - generic [ref=e11000]:
+          - generic [ref=e11001]: Recruiting
+          - generic [ref=e11003]: Phase 1
+          - generic [ref=e11004]: Interventional
+          - generic [ref=e11005]: NCT04185038
+        - generic [ref=e11006]:
+          - heading "Study of B7-H3-Specific CAR T Cell Locoregional Immunotherapy for Diffuse Intrinsic Pontine Glioma/Diffuse Midline Glioma and Recurrent or Refractory Pediatric Central Nervous System Tumors" [level=2] [ref=e11007]
+          - paragraph [ref=e11008]: Phase 1 Study of B7-H3-Specific CAR T Cell Locoregional Immunotherapy for Diffuse Intrinsic Pontine Glioma/Diffuse Midline Glioma and Recurrent or Refractory Pediatric Central Nervous System Tumors
+        - generic [ref=e11009]:
+          - generic [ref=e11010]: Central Nervous System Tumor
+          - generic [ref=e11011]: Diffuse Intrinsic Pontine Glioma
+          - generic [ref=e11012]: Diffuse Midline Glioma
+          - generic [ref=e11013]: Ependymoma
+          - generic [ref=e11014]: Medulloblastoma, Childhood
+          - generic [ref=e11015]: +6 more
+        - generic [ref=e11017]:
+          - paragraph [ref=e11018]: This is a Phase 1 study of central nervous system (CNS) locoregional adoptive therapy with autologous CD4+ and CD8+ T cells lentivirally transduced to express a B7H3-specific chimeric antigen receptor (CAR) and EGFRt. CAR T cells are delivered via an indwelling catheter into the …
+          - button "↓ Read more" [ref=e11019] [cursor=pointer]
+        - generic [ref=e11021]:
+          - generic [ref=e11022]:
+            - paragraph [ref=e11023]: Organization
+            - paragraph [ref=e11024]: Seattle Children's Hospital
+          - generic [ref=e11025]:
+            - paragraph [ref=e11026]: Responsible Party
+            - paragraph [ref=e11027]: Colleen Annesley · Medical Director, Immunotherapy · Seattle Children's Hospital
+          - generic [ref=e11028]:
+            - paragraph [ref=e11029]: Start Date
+            - paragraph [ref=e11030]: Dec 2019
+          - generic [ref=e11031]:
+            - paragraph [ref=e11032]: Enrollment
+            - paragraph [ref=e11033]: 90(est.)
+          - generic [ref=e11034]:
+            - paragraph [ref=e11035]: Expanded Access
+            - paragraph [ref=e11036]: "No"
+          - generic [ref=e11037]:
+            - paragraph [ref=e11038]: First Submitted
+            - paragraph [ref=e11039]: Nov 2019
+        - generic [ref=e11041]:
+          - generic [ref=e11042]:
+            - generic [ref=e11043]: "Contact:"
+            - generic [ref=e11044]: CBDCIntake@seattlechildrens.org
+            - button "Copy email" [ref=e11045] [cursor=pointer]:
+              - img [ref=e11046]
+          - link "View Trial" [ref=e11049] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT04185038
+            - text: View Trial
+            - img [ref=e11050]
+      - generic [ref=e11054]:
+        - generic [ref=e11055]:
+          - generic [ref=e11056]: Not Yet Recruiting
+          - generic [ref=e11058]: Phase 1
+          - generic [ref=e11059]: Interventional
+          - generic [ref=e11060]: NCT07390539
+        - generic [ref=e11061]:
+          - heading "B7-H3.CD28Z.CART in CNS Neoplasms" [level=2] [ref=e11062]
+          - paragraph [ref=e11063]: A Phase 1/1b Study of Autologous b7-h3 Chimeric Antigen Receptor t Cells (b7-h3.cd28z.Cart) in Children and Young Adults With Recurrent or Progressive Cns Neoplasms Expressing b7-h3 Target
+        - generic [ref=e11064]:
+          - generic [ref=e11065]: Central Nervous System Neoplasms
+          - generic [ref=e11066]: Brain Tumor
+          - generic [ref=e11067]: Brain Tumor, Recurrent
+          - generic [ref=e11068]: Brain Tumor, Pediatric
+          - generic [ref=e11069]: Brain Tumor Adult
+          - generic [ref=e11070]: +9 more
+        - generic [ref=e11072]:
+          - paragraph [ref=e11073]: The purpose of this research study is to test the safety and effectiveness of a cell therapy at different doses for children and young adults with recurrent or progressive brain tumors. Recurrent/recurred means a tumor that has gone away and then came back. This cell therapy is c…
+          - button "↓ Read more" [ref=e11074] [cursor=pointer]
+        - generic [ref=e11076]:
+          - generic [ref=e11077]:
+            - paragraph [ref=e11078]: Organization
+            - paragraph [ref=e11079]: Dana-Farber Cancer Institute
+          - generic [ref=e11080]:
+            - paragraph [ref=e11081]: Responsible Party
+            - paragraph [ref=e11082]: Robbie Majzner · Sponsor-Investigator · Dana-Farber Cancer Institute
+          - generic [ref=e11083]:
+            - paragraph [ref=e11084]: Start Date
+            - paragraph [ref=e11085]: Jun 2026(est.)
+          - generic [ref=e11086]:
+            - paragraph [ref=e11087]: Enrollment
+            - paragraph [ref=e11088]: 70(est.)
+          - generic [ref=e11089]:
+            - paragraph [ref=e11090]: Expanded Access
+            - paragraph [ref=e11091]: "No"
+          - generic [ref=e11092]:
+            - paragraph [ref=e11093]: First Submitted
+            - paragraph [ref=e11094]: Jan 2026
+        - generic [ref=e11096]:
+          - generic [ref=e11097]:
+            - generic [ref=e11098]: "Contact:"
+            - generic [ref=e11099]: Susan_Chi@dfci.harvard.edu
+            - button "Copy email" [ref=e11100] [cursor=pointer]:
+              - img [ref=e11101]
+          - link "View Trial" [ref=e11104] [cursor=pointer]:
+            - /url: https://clinicaltrials.gov/study/NCT07390539
+            - text: View Trial
+            - img [ref=e11105]
+    - paragraph [ref=e11107]: End of results · 46 total
+  - contentinfo [ref=e92]:
+    - generic [ref=e93]:
+      - generic [ref=e94]:
+        - paragraph [ref=e95]: LM-Trials
+        - paragraph [ref=e96]: A focused clinical trial finder for leptomeningeal metastasis patients. Data sourced live from ClinicalTrials.gov API v2.
+      - generic [ref=e97]:
+        - paragraph [ref=e98]: Medical Disclaimer
+        - paragraph [ref=e99]: This tool is for informational purposes only and does not constitute medical advice. Always consult your oncologist or qualified medical professional before enrolling in any clinical trial.

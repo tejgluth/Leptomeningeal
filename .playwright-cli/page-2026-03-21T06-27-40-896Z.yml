@@ -1,0 +1,130 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]: LM-Trials
+    - link "ClinicalTrials.gov ↗" [ref=e6] [cursor=pointer]:
+      - /url: https://clinicaltrials.gov
+  - generic [ref=e7]:
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: Clinical Trial Finder · Leptomeningeal Metastasis
+      - heading "Find your trial. Skip the complexity." [level=1] [ref=e13]:
+        - generic [ref=e14]: Find your trial.
+        - generic [ref=e15]: Skip the complexity.
+      - paragraph [ref=e16]: A focused search tool for leptomeningeal cancer patients. We filter ClinicalTrials.gov so you only see trials that can include you — eligibility pre-checked, no medical jargon required.
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - generic [ref=e19]: Live
+          - generic [ref=e20]: ClinicalTrials.gov data
+        - generic [ref=e21]:
+          - generic [ref=e22]: 3-step
+          - generic [ref=e23]: Eligibility filter
+        - generic [ref=e24]:
+          - generic [ref=e25]: Live
+          - generic [ref=e26]: Real-time data
+      - button "Search Clinical Trials →" [ref=e27] [cursor=pointer]:
+        - text: Search Clinical Trials
+        - generic [ref=e28]: →
+    - paragraph [ref=e29]: For informational purposes only. Always consult your oncologist or medical team before enrolling in any clinical trial. This tool does not provide medical advice.
+  - generic [ref=e34]:
+    - paragraph [ref=e35]: Filter Trials
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]: Your Age
+          - spinbutton "Your Age" [ref=e41]
+        - generic [ref=e42]:
+          - generic [ref=e43]: Location
+          - combobox "Location" [ref=e44] [cursor=pointer]:
+            - option "Anywhere" [selected]
+            - option "North America"
+            - option "South America"
+            - option "Europe"
+            - option "Asia"
+            - option "Middle East"
+            - option "Oceania"
+            - option "Africa"
+            - option "United States"
+            - option "Canada"
+            - option "United Kingdom"
+            - option "Germany"
+            - option "France"
+            - option "Italy"
+            - option "Spain"
+            - option "Netherlands"
+            - option "Belgium"
+            - option "Switzerland"
+            - option "Austria"
+            - option "Sweden"
+            - option "Denmark"
+            - option "Norway"
+            - option "Finland"
+            - option "Australia"
+            - option "Japan"
+            - option "China"
+            - option "South Korea"
+            - option "Israel"
+            - option "Brazil"
+            - option "Mexico"
+            - option "Argentina"
+            - option "India"
+            - option "Singapore"
+            - option "Hong Kong"
+            - option "New Zealand"
+            - option "Poland"
+            - option "Czech Republic"
+            - option "Portugal"
+            - option "Greece"
+            - option "Turkey"
+            - option "Russia"
+            - option "Ukraine"
+            - option "South Africa"
+        - generic [ref=e45]:
+          - paragraph [ref=e46]: Study Type
+          - group "Study type" [ref=e47]:
+            - button "Interventional" [ref=e48] [cursor=pointer]
+            - button "Observational" [ref=e49] [cursor=pointer]
+          - paragraph [ref=e50]: All types included
+        - generic [ref=e51]:
+          - paragraph [ref=e52]: Phase — select any
+          - group "Trial phase" [ref=e53]:
+            - button "Phase 1" [ref=e54] [cursor=pointer]
+            - button "Phase 2" [ref=e55] [cursor=pointer]
+            - button "Phase 3" [ref=e56] [cursor=pointer]
+          - paragraph [ref=e57]: All phases included
+      - generic [ref=e58]:
+        - generic [ref=e59]: Recruitment Status
+        - generic [ref=e60] [cursor=pointer]:
+          - generic [ref=e61]:
+            - img [ref=e62]
+            - checkbox "Recruiting" [checked] [ref=e64]
+          - generic [ref=e65]: Recruiting
+        - generic [ref=e66] [cursor=pointer]:
+          - generic [ref=e67]:
+            - img [ref=e68]
+            - checkbox "Not Yet Recruiting" [checked] [ref=e70]
+          - generic [ref=e71]: Not Yet Recruiting
+        - generic [ref=e72] [cursor=pointer]:
+          - generic [ref=e73]:
+            - img [ref=e74]
+            - checkbox "Active, Not Recruiting" [checked] [ref=e76]
+          - generic [ref=e77]: Active, Not Recruiting
+      - generic [ref=e78]:
+        - paragraph [ref=e79]: Tumor Type
+        - group "Tumor type filter" [ref=e80]:
+          - button "Any tumor type" [ref=e81] [cursor=pointer]
+          - button "Lung" [ref=e82] [cursor=pointer]
+          - button "Breast" [ref=e83] [cursor=pointer]
+          - button "Melanoma" [ref=e84] [cursor=pointer]
+          - button "GBM" [ref=e85] [cursor=pointer]
+          - button "Other / Solid tumor" [ref=e86] [cursor=pointer]
+      - button "Search Trials →" [ref=e87] [cursor=pointer]:
+        - text: Search Trials
+        - generic [ref=e88]: →
+  - paragraph [ref=e91]: Set your filters above and press Search to find eligible trials
+  - contentinfo [ref=e92]:
+    - generic [ref=e93]:
+      - generic [ref=e94]:
+        - paragraph [ref=e95]: LM-Trials
+        - paragraph [ref=e96]: A focused clinical trial finder for leptomeningeal metastasis patients. Data sourced live from ClinicalTrials.gov API v2.
+      - generic [ref=e97]:
+        - paragraph [ref=e98]: Medical Disclaimer
+        - paragraph [ref=e99]: This tool is for informational purposes only and does not constitute medical advice. Always consult your oncologist or qualified medical professional before enrolling in any clinical trial.
